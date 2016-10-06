@@ -1,0 +1,497 @@
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+1
+Brazil’s exception to the world-class university movement
+Juan Pablo Alperin,
+Stanford Graduate School of Education
+485 Lasuen Mall, Stanford, CA 94305-3096
+United States of America
+juan@alperin.ca
+Abstract
+The continued importance of university rankings has only served to fuel the growth of the ‘worldclass’
+university movement. There is a growing impression that, in a globalized and interconnected
+world, no country can do without a world-class university. No country, that is, except Brazil. While Brazil
+has the resources necessary to create a world-class university, evidence suggests there has been no
+attempt to create one. This paper draws on data from various sources to show that the government has
+instead focused on improving the quality of higher education in Brazil but has done so with a focus on
+national outcomes. Through government policies, Brazil has incentivised research, increased the number
+of doctoral degrees awarded, and improved the quality of doctoral programmes. While these are the
+types of improvements needed for a world-class university, there is no evidence to indicate an interest in
+joining the world-class university movement.
+Introduction
+The continued importance of university rankings has only served to fuel the growth of the ‘worldclass
+university’ movement. There is a growing impression that, in a globalised and interconnected
+world, ‘everyone wants a world-class university’ and that ‘no country feels it can do without one’
+(Altbach, 2004; n.p.). No country, that is, except Brazil.
+Despite being among the world’s foremost emerging economies and achieving increased presence
+on the world stage, Brazil has not pursued, in any deliberate or dedicated way, international recognition
+of its top universities as world-class.’ It’s true that Brazil has worked hard at improving its federal
+university system and along many of the dimensions typically associated with a world-class institution:
+quality, graduate education and research but for a different purpose. By looking at its internationalisation
+strategies, evaluation strategies, research expenditures and research outputs, this paper seeks to show
+how Brazil has taken key aspects of what it means to be world-class, without buying the entire package.
+Arguably, the result has been a particularly Brazilian model of university development; one that places
+serving national needs above the pursuit of international recognition.
+To begin, however, we must come to a common understanding of what is generally understood by
+a world-class university, even if Altbach (2004) is right that ‘no one knows what a world-class university
+is and no one has figured out how to get one’ (n.p.). One thing does seem certain, that the rankings and
+the designation of ‘world-class’ phenomenon are intricately tied. In a self-referential fashion, world-class
+universities are those that appear at the top of university rankings, while the rankings measure and give
+weight to those characteristics at which world-class universities excel. The rankings serve the function of
+providing a third-party way of defining the membership in the ‘exclusive group of world-class
+universities’, since membership cannot be ‘achieved by self-declaration’ (Salmi, 2009; p. 15). Prior to the
+rankings, there was only the narrow club of reputation. Now, lesser-known institutions appear on the top 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+2
+100 or top 200 lists, giving them a chance to be labeled as world-class, even if they have not attained a
+world-class reputation. For what it is worth, this was unthinkable before the rankings.
+International rankings systems tend to objectify certain measures of achievement and performance
+but the very things chosen for measurement are themselves still biased. These rankings are known to be
+problematic and have been the subject of much critique (Bowden, 2000; Provan and Abercromby, 2000;
+Marginson, 2007; Harvey, 2008). Of the two major rankings usually cited, the Shanghai Jiao Tong
+University (SJTU) ranking would seem to have the stronger claim to objectivity, compared to the Times
+Higher Education Supplement (the ‘Supplement’ has now been dropped from the name) ranking.
+However, both rankings use measures that are confounded with the traditional indicator of a world-class
+university (prestige/reputation). It is therefore no surprise to see the Ivy League schools from the United
+States, as well as Oxford and Cambridge in the United Kingdom, at the top of the lists. While the Times
+Higher Education gives Western universities a reputation advantage (50% of the measure is determined
+by ‘academic peer-review’ and ‘reputation’), the SJTU gives the advantage to major English-speaking
+countries and industrialised nations who publish in English and in traditional venues. The inherent biases
+in the measures virtually guarantee that the dominance of Western countries (both rankings have North
+American and Western European universities making up at least 75% of the top 50). In contrast, Latin
+America cannot boast any university in the top 100 and only a handful in the top 200.
+With a more regional focus, the QS rankings (which uses measures more similar to the Times Higher
+Education than the SJTU) rank Latin American universities. It shows that by Latin American standards (or
+rather, by Western standards but in comparison to Latin American universities) Brazil is leading the pack.
+The University of São Paulo (the top ranked Latin American university in both the Times Higher
+Education and SJTU) also tops the QS rankings. Brazil has another two universities in the top 10 (for a
+total of three), eight in the top 20 and 31 in the top 100 (QS, 2011). All this to say, even by the standards
+used for producing rankings, Brazil seems to be doing something right—at least by comparison with
+other Latin American countries.
+However, these or any other ranking do not solely define world-class universities. Recently,
+scholars have attempted to define what it means to be world-class (Altbach, 2004; Khoon et al., 2005)
+and several books have been written or edited on the challenges (Altbach & Balán, 2007; Salmi, 2009;
+Altbach, 2010). Most definitions agree on a set of basic features, including ‘highly qualified faculty;
+excellence in research; quality teaching; high levels of government and nongovernment sources of
+funding; international and highly talented students,’ among other things (Salmi, 2009; p. 19). Salmi (2009)
+adds to the definition some of the necessary outputs: ‘highly sought graduates, leading-edge research,
+and technology transfer’ (p. 19). Under these general definitions, world-class seems to be simply another
+term that can easily be confounded with research university, flagship, or state-building (Altbach, 2007).
+The largest Latin American universities are often referred to as any of the latter three (Altbach et al.,
+2009; Levy, 1986; Ordorika & Pusser, 2007) but their failure to meet some of the criteria outlined above,
+make them insufficient to warrant the label of ‘world-class.’
+In particular, Latin America seems to be interested in having research universities and across the
+region, many nations have adopted and promoted the research model of the university (Bernasconi,
+2007) but these countries have not pursued (or achieved) the internationalisation necessary to reach
+world-class status. The choice of local staff even for its flagship universities and have them attended
+mostly by nationals appears to have been part of a deliberate educational policy. Pereira Laus & Costa
+Morosini (2005) provide an overview of Brazil’s limited efforts to internationalise, noting the presence of
+some bilateral and multilateral agreements, participation in academic networks, student and academic
+staff exchanges. However, as they conclude, ‘very little has been done’ and ‘the process is far from
+complete’ (Pereira Laus & Costa Morosini, 2005, p. 147, my translation). Yet, the international dimension 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+3
+is an integral part of what it means to be world-class, which is why the rankings favour institutions with
+strong international components. Drawing on students and staff from other countries, enables
+[universities] to attract the most talented people, no matter where they come from, and open themselves
+to new ideas and approaches’ (Salmi, 2009; p. 21). It is precisely this dimension that Brazilian
+universities, not even the top-tier institutions, have largely ignored. Instead, this paper argues that Brazil
+has taken what it finds valuable from the world-class movement, namely the drive for improving research
+quality and quantity, but has done so to build universities for and by Brazilians, without a deliberate
+attempt to reach beyond its borders simply to rise in world rankings.
+Brazilian Higher Education
+Countries have differed in their approaches to producing world-class universities. Some have
+increased resources to their best institutions (picking winners), others have encouraged the merger of
+existing institutions (hybrid formula), while others have opted to create entirely new institutions (Salmi,
+2009). Latin America, especially Brazil, has great public universities that ‘have world-class potential’
+(Altbach, 2007; p. 7). If the government made it a priority, it would destine some of Brazil’s large
+economic growth and pick a few ‘winners’ to elevate to world-class status given that ‘the Brazilian State
+has almost complete power over public higher education’ (Carnoy et al., 2013; ch. 5).
+Instead, Brazil has invested in a thriving research university system that has served Brazilians well.
+This system, it should be noted, refers primarily to the public institutions over which the government has
+much greater control but which form the minority of the higher education institutions. Private institutions
+are responsible for absorbing the vast majority of the expansion in higher education and are currently
+responsible for approximately 75% of all enrolment (MEC, 2011; p. 2). Carnoy et al. (2013) also
+demonstrates that Brazil’s higher education strategy (on par with other so-called BRIC nations (Brazil,
+Russia, India, China) has focused on improving quality by investing in its public institutions while
+counting on second- and third-tier institutions to absorb the ever-expanding enrolment. So while it is
+true that the Brazilian government is concerned with the development of the higher education system, it
+is clear that its sphere of influence is greater limited to the subset of higher education institutions under
+public administration.
+Yet, national policies have incentivised research at all universities, especially in the applied
+sciences. The number of doctorate degrees awarded in some areas (agrarian and health science) is on a
+par with the United States in absolute number (Steiner, 2007). Brazil is also a regional leader, with
+approximately 11,000 of the 18,000 doctorate degrees awarded in Latin American and the Caribbean in
+2010 (RICYT, 2010). Brazil eclipses even Mexico and Argentina, the next two regional leaders (Figure 1).
+Not only does Brazil produce more doctorates than any other country in the region, they have increased
+the number at a significant rate (7% on average since 2001). 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+4
+Figure 1: Doctorate degrees awarded since 2001
+Source: RICYT 2012
+Having a large number of graduates alone is not enough, as quality clearly matters. Since 1976, the
+Ministry of Education’s agency for the improvement of higher education (Coordenação de Aperfeiçoamento
+de Pessoal de Nível Superior, CAPES) has carried out periodic evaluations of all postgraduate programmes
+and assigned a score on a seven-point scale. Evaluations are based on criteria established by each area
+of study and subsequently validated by international committees (CAPES, 2007). Of these scores, ‘6’
+and ‘7’ are reserved for programmes that can be considered ‘world-class,’ according to their own
+definition. That is, they include criteria such as publishing in high- prestige journals, receiving
+international scholars (students, post-docs), producing international patents and organising conferences
+with international participation. Out of 2,718 programmes in 2010, 322 (11.85%) of the programmes
+attained this level (Table 1). Not surprisingly, these programmes are not distributed evenly across
+universities (five universities have close to 60% of the top-ranked programmes; Table 2). The
+concentration of talent at a few institutions simply highlights the potential to achieve world-class status,
+if only there was an appetite to do so. 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+5
+Table 1: Number of doctoral programmes evaluated at each level in 2010
+Score Number of
+Programmes
+Percentage of
+Programmes
+1 6 0.22
+2 55 2.02
+3 858 31.57
+4 921 33.89
+5 556 20.46
+6 204 7.51
+7 118 4.34
+Total 2718 100.00
+Source: CAPES (2012)
+Note: Programmes are evaluated by Ministry of Education’s agency for the improvement of higher
+education (CAPES) tri-annually on a 7-point scale
+Table 2: Universities with most programmes classified in top categories
+University ‘6’ ‘7’
+Universidade De São Paulo 46 31
+Universidade Federal Do Rio De Janeiro 22 14
+Universidade Estadual De Campinas 15 14
+Universidade Federal Do Rio Grande Do Sul 10 11
+Universidade Federal De Minas Gerais 16 9
+Source: CAPES (2012)
+Note: Programmes with scores of 6 and 7 (on a 7-point scale) are considered to be of ‘international’
+calibre.
+However, as Schwartzman (2005, p. 26) points out, in Brazil ‘there is no general feeling that the
+country needs a world-class university, and USP [University of São Paulo], the university that could
+aspire to this role, prefers to see itself as a local institution’. In a later section, we come back to the
+University of São Paulo role and the ways in which it ‘prefers’ to be a local institution—but first we want
+to emphasise that the lack of world-class designation is not due to lack of resources nor a lack of
+quality. As the evaluations show, the quality of the programmes, at least as determined by CAPES, is
+high. The general sense is that the evaluations successfully connect ‘performance with support, creating
+a virtuous circle that reinforces the best programmes, while imposing a threshold for performance that
+limits growth without quality’ (Balbachevsky & Schwartzman, 2010, p. 4).
+High-quality programmes translate into higher-quality education and a strong research profile. The
+emergence of graduate education in Brazil was a deliberate policy decision, dating back to the 1970s,
+‘around a project that puts science as a core policy for promoting the country’s economic development
+and independence’ (Balbachevsky & Schwartzman, 2010, p. 20). From the student’s perspective, it has
+meant a high proportion of those at public universities are taught by professors holding doctorate
+degrees who are actively engaged in research. Such students have subsequently been shown to have
+increased gains in national evaluations (at least in engineering and computer science) (Carnoy &
+Carrasco, 2012). If Carnoy and Carrasco’s findings generalise to other programmes, then the top
+Brazilian public universities, especially those with the highest-quality graduate programmes, are 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+6
+succeeding in providing education on par with countries with world-class institutions. On the whole, the
+approach of the Brazilian state seems to be succeeding in its goals of institutionalising and promoting
+the research-university model, deriving from it all the benefits of having a highly qualified academic staff
+engaged in research. Furthermore, the environment generated at these universities ‘successfully
+concentrates [local] academics with dynamic profiles as researchers, with intense activity in international
+networking and publishing, creating an energetic and demanding environment for its students’
+(Balbachevsky & Schwartzman, 2010; p. 23): an important sought-after feature of a world-class
+university.
+Unlike in the United States, the United Kingdom and other industrialised countries with world-class
+universities, the academic staff and students at the public universities in Brazil are decidedly Brazilian. In
+2009, Brazil only received around 16,000 international students (approximately 0.3% of the student
+population). By comparison, Portugal (which shares the language with Brazil but has 1/14th the
+enrolment and 1/18th the population) received around 9,000 students (approx. 2.4% of all students)
+(UNESCO, 2009a; 2009b). One would expect the rates to be much higher at top-ranked schools,
+especially at the graduate level but the leading institution, the University of São Paulo, only had 180
+foreign students (around 3%) out of the approximately 5,500 graduate student population in 2003
+(Schwartzman, 2005). The reality is that there are no established procedures for the admittance of
+foreign students and neither universities nor the state have made a concerted effort to attract or facilitate
+an increased presence of foreign students. A notable exception is the programme ‘Science Without
+Borders’ recently launched by the Ministry of Education. This programme is Brazil’s first major attempt
+at internationalising higher education and might be an early sign of a newly found appetite for a worldclass
+university. This is discussed further below but note that if Brazilians wished to have a world-class
+university, they would have already turned to the state to support an internationalisation of the student
+body in order to attract the best students from around the world.
+As it currently stands, universities do not have any incentives to attract foreign students or provide
+them with support. Bringing international students would not provide any financial benefits to the
+universities, since public institutions are prohibited by the constitution from charging tuition (even of
+foreign students). In the US, foreign students are thought to have contributed 13 billion dollars in tuition
+and fees during the 2009–10 academic year (NAFSA, 2010). Brazil is unlikely to attract as many students
+or collect as many fees but suffice to note the foregone revenue from foreign students by a law that,
+presumably, was intended to ensure access for Brazilians, not foreigners. Free tuition could be used as
+an incentive to attract foreign students but universities would need to invest and make changes
+‘affecting admission procedures, the use of foreign language in classes, exams and dissertations, …
+[and] housing’ (Schwartzman, 2005; p. 24). Universities also face issues in bringing foreign academic
+staff, such as attaining visas and finding a guarantor for rental housing (Downie, 2010). According to
+Downie (2010), the university of Campinas (UNICAMP) has attempted to increase the number of foreign
+academic staff and has worked to overcome such issues. However, despite attracting qualified people,
+they ‘cannot hire any of them outright, thanks to the peculiar policies of Brazil’s state’ (Downie, 2010;
+n.p). Thus, the few efforts made to internationalise Brazilian universities are hampered by the state’s
+unwillingness to cut red tape for the sake of establishing world-class institutions.
+Brazil does better at sending students and scholars overseas. In 2009, over 26,000 students
+studied abroad (primarily in the United States, France and Portugal) (UNESCO, 2010). Of these, 4,344
+were funded by the State through CAPES (Downie, 2010). Numbers regarding scholars who obtained
+their doctorates abroad are not available but ‘It would not be difficult to draw a large list of professors in
+the best universities that were educated abroad’ (Schwartzman, 2005; p. 24). However, as Schwartzman 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+7
+(2005, p. 25) also points out, for most of these scholars, ‘studying abroad was a step in their local
+careers and their reference remains their local institutions’.
+Presumably, Brazilians educated abroad have the potential for international collaborations.
+However, with whom Brazilian scholars are collaborating reflects their preference for ‘staying local’. The
+number of publications in journals indexed by Thomsom-Reuter’s Web of Science has increased steadily
+since 1990, a result of the increased research activity discussed above and increases in research and
+development spending. However, what is surprising is that the number of co-authorships with other
+Brazilians (local) increases at a significantly faster rate than co-authorship with other countries (Figure 3).
+There is a slight decline in the number of single-author publications in 1998 but these remain relatively
+constant in the ensuing decade. However, the number of collaborations among national authors
+increases dramatically over the same time period, while collaborations with at least one non-Brazilian
+author increase at a much lower rate. One expects to see more local collaboration in journals published
+in Brazilian (a local bias) but the result is surprising given that the number of Brazilian journals included in
+the Web of Science remains relatively stable in the period between 1997–2006 (fluctuating only between
+17 and 21 titles). That is, the increased number of Brazilian articles is due to publication in non-Brazilian
+journals. We see the bump in local collaborations between 2007–2008, where the number of Brazilian
+journals included in the database goes up to 30.
+Figure 2–Number and type of co-authorships.
+Source: Thomson-Reuters Web of Knowledge
+A comparison in absolute number of co-authorship across the Latin American countries also reveals
+that international co-authorships in Brazil have increased more slowly than all other Latin American
+countries (Lemarchand, 2011). An effective strategy to increase international visibility would be for
+scholars to ‘link their research to the international research community, particularly through the co-
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+8
+publication with authors that are members of networks with larger connectivity (USA, UK, Germany,
+France)’ (Lemarchand, 2011, p. 7). In fact, this is the behaviour exhibited by most countries in Latin
+America: Brazil is again the exception in the region. Yet, Brazil has shown tremendous growth in the
+number of scientific papers published (Figure 3), a signal of the healthy research landscape in the region.
+This pattern may be an artifact of Web of Science’s selection of journals. However, we would
+expect those works to be more international in nature, since the Web of Science uses as one of its main
+selection criteria the citation rates from other journals already in Web of Science (predominantly US and
+European journals) (Testa, 2012). However, the vast majority of Brazilian science is published in journals
+not indexed by Web of Science. Thanks in large part to the support of CAPES, Brazil is 20th in the world
+and 1st in the region in the number of journals published (Haider, 2005) and has its own home-grown
+version of Web of Science, namely, the Scientific Electronic Library Online (SciELO), which is made up of
+the leading Brazilian journals and that is, unlike Web of Science, publicly funded and provides free online
+access to all its journals. Having a large body of journals, Brazilian scholars have sufficient outlets for
+disseminating their work and enough of a national audience for that work to be read and built upon.
+Citation analysis using both the Web of Science and SciELO databases show that many Brazilian
+journals have a strong national audience (Meneghini, Mugnaini & Packer, 2006). As measured by number
+of citations, this national audience appears to be as important, if not more important, than the
+international audience.
+Therefore, both citation and co-authorship data point to a decided nationally oriented research
+culture. Moreover, they point to a nationally oriented research culture that appears to be thriving though
+its national market. The two agencies in charge of allocating the majority of research funding, CAPES
+and the National Council for Scientific and Technological Development (CNPq), have focused on
+strengthening graduate education and research culture but have not made concerted effort to
+internationalise research culture by, for example, expanding funding for international research projects:
+one of the key elements required for Brazil to attain a world-class university.
+Brazil is catching up to the United States on the number of articles per researcher in the Science
+Citation Index (SCI) (the main part of Web of Science). In 2009, this number approached 27 articles per
+full-time equivalent researcher, the same as the United States in 2007 (RICYT, 2010). It does so despite
+significantly less spending, per full-time equivalent researcher, than the United States ($146,600 in 2009
+in Brazil versus $263,600 in the United States in 2007) (RICYT, 2010). This is partly a function of a
+number of individuals not being explicitly tasked to do research, but largely a function of researchers
+now being found at every type of institution. According to one survey, 53% of academics at public
+universities receive external support, 27% of those at regional universities, 25% of those at élite private
+institutions and 7% of those at private mass institutions (Balbachevsky & Schwartzman, 2010). It
+appears that despite the lack of significant increases in research and development as a percentage of
+GDP (which has remained at approximately 1% of GDP), Brazil has succeeded in increasing its research
+outputs thanks to the growing presence of researchers at all types of institutions and the related growth
+in importance of research for academic staff evaluation.
+Increasing research outputs is yet another way that the Brazilian government has strengthened a
+research-university model, especially among its public universities. In this sense, it can be said to have
+noticed the world-class university movement but unlike other emerging economies, it has chosen not
+focus attention or resources specifically in attaining one. Instead, it has focused on conferring graduate
+degrees, evaluating and improving graduate programmes and increasing its research outputs across a
+series of institutions intended to serve the nation. That is, it has taken some of the key elements in the 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+9
+world-class movement (rankings, evaluations and research metrics) but has re-interpreted them in its
+own national context, a move that Leite (2010, p. 228) sees as part of a Southern epistemology∗
+:
+Instead of copying foreign ideas there is a tendency to create new ones and re-elaborate them
+with an anticipatory view and an accent on Global South localism. A critical mass and part of the
+political class adopts the neo-liberal policies initially, and then immediately afterwards it commits
+anthropophagi—it digests what it finds useful, regurgitates what does not concern it, and absorbs
+what will do it some good.
+By looking at higher education policies for the public universities, there appears to be some truth to
+Leite’s point of view. They are ‘anticipatory’ in that they are preparing Brazil’s university system for a
+global market. If Brazil is to have world-class universities, they need to have strong roots in its society
+and ‘only from these roots that they can branch out to other cultures and societies’ (Schwartzman, 2005;
+p. 34). Brazil has adopted all the markers of world-class universities without necessarily seeking to
+promote any one of its top universities to full-fledged world-class status. It has used the world-class
+university movement as a way of promoting quality but has done so with its own evaluation criteria
+(CAPES), its own outlets for publishing (SciELO) and without going too far beyond its own borders
+(largely local co-authorships). As has been shown throughout this paper, efforts and investments have
+had a largely national focus and, in the few instances where they have invested in internationalisation of
+students and academic staff at the public universities, these efforts have been directed toward African
+countries and other members of MERCOSUL. For example, the ‘creation of four new public
+universities—UNILAB, UNILA, UFFS and UFOPA—is directed towards the Global South.’ (Schwartzman,
+2005, p. 229)
+Looking forward by looking back
+The question of whether Brazil needs a university that has internationalised sufficiently to achieve
+recognition as world-class remains open. Long-time observer of Brazilian higher education Schwartzman
+seems to think there are many important reasons, ‘not only because of the need to participate and
+compete internationally in the areas of advanced science and technology … or the exclusive emphasis
+on research’ (Schwartzman, 2005, p. 26–27). He also sees world-class universities as needing to ‘work
+as bridges between the country and the larger world, and provide standards of intellectual excellence to
+other institutions’ as well as ‘the only intelligent way of dealing with the globalization trends of higher
+education’ (Schwartzman, 2005, p. 27).
+Carnoy et al. (2012) fundamentally agree with this latter point, although they convincingly argue that
+pressures for globalisation in higher education primarily operate through the state (and not, as much of
+the literature on higher education and globalisation suggest, through the institutions themselves).
+Throughout the book they argue that the state action is driven by the desire to gain legitimacy. As such,
+they suggest that the Brazilian government will feel increased pressure to establish a world-class
+university as the pressures towards globalisation continue to exert themselves. Yet, in the past decade,
+there has been little indication that either the state, scholars, or university administrators have had an
+appetite for it.
+Carnoy et al. (2012) may still be right. In July 2011, the government of Dilma Rousseff announced a
+new programme aimed specifically at the internationalisation of Brazilian science, given a strong
+indication that internationalisation is on their higher education agenda. The new programme, ‘Science
+																																																							
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+10
+Without Borders’ (‘Ciência Sem Fronteras’), has as its primary aim ‘to promote the consolidation and
+expansion of science, technology and innovation in Brazil by means of international exchange and
+mobility’ (Ciência Sem Fronteras, 2012). The results of such a programme (especially the ability of the
+state to change local practices) remain to be seen.
+Although the programme is aimed at tackling some of the challenges in internationalisation (such as
+those pointed out by Downie, 2010), the programme is aimed nation-wide. It is not focused on
+converting any particular institution into a world-class university. It would be difficult to imagine Brazil
+picking winners, given the state’s focus on access, equity and redistribution. The approach of
+supporting free public education of high quality, through increased investment in graduate education
+and research, is more attuned to the current political climate in Brazil today. The evidence can be found
+in the National Education Plan for the next nine years (PNE 2011–2020) (MEC, 2011) that, among other
+things, states the government plans to ‘raise the number of graduate school entrants, increase graduate
+research opportunities and encourage national and international research collaborations. The
+government moreover intends to improve the quality of higher education by increasing the proportion of
+faculty with graduate degree’ (Carnoy et al., 2013, p. 37).
+The plan does not, however, include strategies for rising in international rankings by, for example,
+attempting to attract a greater number of international academic staff or students. Only if a programme
+like ‘Science Without Borders’ is embraced by the administration of one of the top universities, and if the
+programme proves successful, will Brazil have an institution that is recognised as world-class. However,
+it is not clear that state support would be sufficient, as the local culture has been instilled at universities
+such as the University of São Paulo for years. As Schwartzman (2005, p. 34) aptly concludes ‘for such a
+project to develop, it will be necessary to identify with more clarity the role of a leading university in the
+contemporary word … [and] … the University of São Paulo … is one of the few institutions in the country
+that have the intellectual, material and political resources to accept, confront and win this challenge’.
+In the meantime, the Brazilian state seems poised to deliberately produce locally defined and
+recognised world-class universities for Brazilians themselves, without aiming to attract international
+students or professors but while attracting visibility to Brazilian science. The decidedly local public
+universities in Brazil have strong graduate programmes with qualified professors and proven learninggains,
+produce a significant amount of research and have a sufficient internal market to exchange ideas
+(that is, citations) in locally produced academic journals. The Brazilian government has implemented a
+comprehensive graduate programme evaluation scheme, funded the production of academic journals so
+that it is now 20th in the world in absolute number of titles and funded researchers to the point where
+they are able to produce more papers per researcher than the United States. If Brazil does not have a
+world-class university, it is not for a lack of talent or resources. It is because the country has not yet
+decided that this is critical to its goals as a nation.
+References
+Altbach, P. (Ed.), 2010, Leadership for World-Class Universities: Challenges for developing countries
+(New York, Routledge).
+Altbach, P. G., & Balán, J., 2007, World Class Worldwide: Transforming research universities in Asia and
+Latin America (Baltimore, Johns Hopkins University Press).
+Altbach, P., 2004, ‘The costs and benefits of world-class universities’, Academe. Available at
+http://aaup.org/AAUP/pubsres/academe/2004/JF/Feat/altb.htm (accessed 13 March 2012).
+Altbach, P., Reisberg, L., & Rumbley, L, 2009, Trends in Global Higher Education: Tracking an academic
+revolution (Paris, UNESCO and Sense Publishers).
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+11
+Balbachevsky, E., & Schwartzman, S, 2010, ‘The graduate foundations of research in Brazil’, Higher
+Education Forum, 7(1), 85–101.
+Bernasconi, A., 2007, ‘Is there a Latin American model of the university?’, Comparative Education
+Review, 52(1), 27–52.
+Bowden, R., 2000, ‘Fantasy higher education: university and college league tables’, Quality in Higher
+Education, 6(1), pp. 41–60.
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), 2007, Avaliação Trienal 2007
+(triênio 2004 - 2006). Available at http://www.capes.gov.br/avaliacao/criterios-de-avaliacao/2284
+(accessed 1 February 2013)
+Carnoy, M. and Carrasco, R., 2012, ‘Achievement gains in Brazilian universities: the case of engineering
+and computer science programs’, Stanford University School of Education (mimeo).
+Carnoy, M., Loyalka, P., Dobryakova, M., Dossani, R., Froumin, I., Kuhns, K. Tilak, J.B.G., & Wang, R.,
+2013, Triumph of the BRICs? University Expansion in a Changing Global Economy (Palo Alto,
+Stanford University Press).
+Downie, A., 2010, September 4, ‘Brazilian universities find challenges in internationalization’. Higher
+Education Chronicle. Retrieved from http://chronicle.com/article/Brazilian-UniversitiesFind/124312/.
+Haider, J, 2005, ‘The geographic distribution of open access journals’, ICML 9, World Congress on
+Health Information and Libraries. Salvador/Bahia, Brazil. Available at
+http://www.soi.city.ac.uk/~ch696/icml9_poster_haider.pdf, (accessed 30 September 2009).
+Harvey, L., 2008, ‘Rankings of higher education institutions: a critical review’, Quality in Higher
+Education, 14(3) pp. 187–207
+Khoon, K., Shukor, R., & Hassan, O, 2005, ‘Hallmark of a world-class university’, College Student
+Journal, 39(4), 765–768.
+Leite, D., 2010, ‘Brazilian higher education from a post‐colonial perspective’, Globalisation, Societies
+and Education, 8(2), 219–233.
+Lemarchand, G. A., 2010, ‘The long-term dynamics of co-authorship scientific networks, Iberoamerican
+Countries (1973-2006)’, Arxiv preprint arXiv:1001.2837, (May 2008), 1–37. Available at
+http://arxiv.org/abs/1001.2837, (accessed 9 November 2009).
+Marginson, S., 2007, ‘Global university rankings: implications in general and for Australia’, Journal of
+Higher Education Policy and Management, 29(2), pp. 131–42.
+Ministério de Educacão (MEC), 2011, ‘Plano Nacional de Educacão. Ministério de Educacão (Brazil)’,
+Available at http://portal.mec.gov.br/arquivos/pdf/pne.pdf, (accessed 13 July 2012)
+Meneghini, R., Mugnaini, R., & Packer, A. L., 2006, ‘International versus national oriented Brazilian
+scientific journals. A scientometric analysis based on SciELO and JCR-ISI databases’,
+Scientometrics, 69, 529–538. Available at http://dx.doi.org/10.1007/s11192-006-0168-z, (accessed
+16 July 2012)
+NAFSA, 2010, ‘The economic benefits of international education to the United States for the 2009–2010
+academic year: a statistical analysis’. Available at http://www.nafsa.org/_/File/_/eis2010/usa.pdf,
+(accessed 13 July 2012 DATE day month year)
+Ordorika, I. & Pusser, B, 2007, ‘La maxima cases de estudios: the Universidad nacional autónoma de
+México as a state-building university’, in Altbach, P. and Balan, J. (Eds.) Research Universities in
+Asia and Latin America. World Class Worldwide, pp. xx–xx (Baltimore: Johns Hopkins University
+Press).
+Pereira Laus, S., & Costa Morosini, M., 2005, ‘Internacionalización de la Educación Superior en Brasil’,
+in (Eds.) De Wit, H., Jaramillo, I. C. Gacel-Ávila, J. & J. Knight, J., Educación Superior en América 
+Stanford University makes this peer-reviewed final draft available under a Creative Commons AttributionNoncommercial License.
+The published version is available from the publisher, subscribing libraries, and the author.
+Alperin, J.P. (in press). Brazil’s exception to the world-class university movement. Quality in Higher Education.
+12
+Latina: La dimensión internacional, (Bogotá, Colombia: Banco Mundial en coedición con Mayol
+Ediciones S.A.).
+Provan, D. & Abercromby, K. 2000, ‘University league tables and rankings: a critical analysis’,
+Commonwealth Higher Education Management Services Paper no. 30. Available at:
+https://www.acu.ac.uk/publication/download?id=33 (accessed 15 January 2013).
+QS, 2012, QS University Rankings: Latin America. America. Available at http://www.iu.qs.com/universityrankings/qs-urlat/,
+(accessed 23 July 2012).
+RICYT, 2010, Red de Indicadores de Ciencia y Tecnología. Available at http://ricyt.org/, (accessed 13
+July 2012).
+Salmi, J, 2009, The Challenge of Establishing World-Class Universities (Washington DC, World Bank
+Publications)
+Schwartzman, S., 2005, Brazil’s Leading University: Between intelligentsia, world standards and social
+inclusion, Rio de Janeiro, Brazil. Available at
+http://www.schwartzman.org.br/simon/worldclasss.pdf, (accessed 12 March 2012).
+Steiner, J., 2007, ‘Brazilian research universities’, in Altbach, P. and Balan, J. (Eds.) Research
+Universities in Asia and Latin America. World Class Worldwide, pp. 171–88 (Baltimore: Johns
+Hopkins University Press)
+Testa, J. (2012). The Thomson Reuters Journal Selection Process. Available at
+http://thomsonreuters.com/products_services/science/free/essays/journal_selection_process/,
+(accessed 30 August 2012).
+UNESCO, 2009a, Top Five Destinations for Mobile Students and Outbound Mobility Ratio (Paris,
+UNESCO Institute for Statistics, Higher Education). Available at
+http://www.uis.unesco.org/Education/Pages/tertiary-education.aspx (accessed 17 March 2012).
+UNESCO, 2009b, Global Education Digest 2009: Comparing Education Statistics Across the World
+(Montreal, UNESCO Institute for Statistics Montreal). Available at
+http://www.uis.unesco.org/Library/Documents/ged09-en.pdf (accessed 17 March 2012)

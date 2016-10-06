@@ -1,0 +1,309 @@
+1
+Willinsky, J. & Alperin, J. P. (2011). The academic ethics of open access to research
+and scholarship, Ethics and Education, 6(3)
+http://www.tandfonline.com/doi/abs/10.1080/17449642.2011.632716.
+Stanford University makes this peer-reviewed draft available under a Creative
+Commons Attribution-Noncommercial License. The published version is available
+from the publisher, subscribing libraries, and the author.
+The Academic Ethics of Open Access to Research and Scholarship
+Professor John Willinsky, Stanford University
+Juan Pablo Alperin, Stanford University
+Abstract: In this paper we present the case for regarding the principles by which
+scholarly publications are disseminated and shared as a matter of academic ethics. The
+ethics of access have to do with recognizing people’s right to know what is known, as
+well as the value to humanity of having one of its best forms of arriving at knowledge as
+widely shared as possible. The level of access is often reduced by the financial interests
+of publishers in a market in which there is little sense of a rational order, given huge
+discrepancies in prices for similar products. At the same time, there are risks to limiting
+researchers access to scholarly resources, both for the quality of the knowledge that is not
+entirely open to review and for the production of new knowledge that it might inspire.
+Then there are issues of access beyond the academy for professional practice and out of
+human interest, for both of which undue limitations raise what are, for us, more than
+academic ethical questions.
+In introducing a recent collection of essays, Creating the Ethical Academy, Tricia
+Bentham Gallant, the Academic Integrity Coordinator for the University of California,
+San Diego, and Lester F. Goodchild, professor of Higher Education at Santa Clara
+University, place the ethical focus squarely on the misconduct of students, admission 
+2
+officers, and faculty members. They ask, in light of the repeated media coverage of
+cheating, bending, and fudging of the rules of academic conduct, “are we heading down a
+road of inevitable corruption? Or is there an alternative way forward?” (2010, p. 3).
+Attending to those who break the rules is a common enough approach to academic ethics.
+This approach carries with it, however, the implication that, if and when such misconduct
+is eliminated, ethical questions would politely disappear from view. We raise this point
+because our contribution to this special issue of Ethics and Education “in search of the
+ethical university” takes a somewhat different approach to finding an alternative way
+forward for the ethical academy.
+We are treating the ethical domain as a realm of positive action – in which, for example,
+one goes out of one’s way to help someone – rather than an arena of moral failings, as
+suggested by exam cheating and research fudging. We believe that with the coming of the
+digital era, the university faces an unprecedented ethical opportunity to act in a positive
+fashion by reaching out to help others. We wish to present the ethical case for going out
+of one’s way to ensure that one’s research and scholarship has been made as widely
+available as possible to other scholars around the world, as well as to interested members
+of the public. With this approach, we are following, in effect, the identification by Gallant
+and Patrick Drinan, a political science professor at the University of San Diego, of the
+university’s “ethical center – which is, after all, the infrastructure and base for the pursuit
+and transmission of knowledge” (2010, p. 215). As this ethical center moves into the
+twenty-first century, the new digital publishing medium affords higher education a whole
+new range of opportunities for sharing what is discovered and learned within these
+institutions. The literature on the contribution and value of “open access” (OA), as it is 
+3
+widely known, to scholarly research continues to grown dramatically during the first
+decade of the twenty-first century (Bailey, 2010). We recognize that there is a host of
+related ethical issues associated with openness and the academic integrity of research and
+scholarship.1 However, the ethics of access to the published literature takes on a
+particularly timely, if not urgent, quality amid the relatively rapid transition from the
+print culture to digital publishing for scholarly journals (and soon, perhaps, scholarly
+books). While other ethical dilemmas, such as cheating and fudging, have a timeless
+quality to them, there is something of a limited-time opportunity for ethical action when
+publishing models are changing and in this unsettled period are radically split between
+tendencies toward increasingly restrictive (for reasons of profit) and open (for a wider
+sharing) practices. There are even some very recent signs of some crossover, with
+publishers looking to advance profits through open access, with the financial
+consequences providing their own potential damper on the circulation of knowledge.
+Thus there is a need to consider the wide, if sometimes confusing, range of initiatives
+underway to direct this new publishing medium toward a more ethical and responsible
+approach to the basic human right to know and to knowledge. To ensure that the
+momentum gained around greater access over the last decade is not lost, we review the
+ethical dimensions of OA in scholarly communication. Much within the current academic
+culture of publish-and-perish-the-thought-of-doing-anything-more-with-the-work
+militates against the extra effort that is still required to ensure that the work done by
+scholars and researchers is distributed as widely and fairly (in terms of costs to readers)
+as possible. Once there was a time when having a study published in a scholarly journal
+was the only way to make the work public in timely and responsible (peer-reviewed) 
+4
+way. Publishing it in a highly reputed journal further guaranteed that the work was more
+widely circulated, as such journals had more subscribers. There was no more to do than
+that, except perhaps respond to those preprinted postcards, typically from Eastern Europe,
+requesting an “off-print” of your paper, which they had somehow caught wind of.
+That is no longer the case. As libraries struggle to afford even their current subscriptions,
+the new means of achieving almost universal online access presents itself. We, as
+scholars, face new responsibilities for thinking about how widely our work circulates,
+which does not preclude publishing in the prestigious journals, but which does call for a
+more ethical approach to the sharing of our work.
+During the first decade of this century, there has been an active debate about OA within
+the scholarly publishing field. It has typically involved advocates calling for
+transparency, fairness, and accountability on one side, while opponents of OA express
+concerns over unproven economic models and the threats posed to the quality and
+sustainability of peer-reviewed scholarly publishing if the money is not there, on the
+other (Davis, 2009). OA advocates hold that people do not only have an ethical right to
+this knowledge, but that the wider circulation achieved by OA is better for the quality and
+utilization (as well as the public support) of this knowledge. The advocates have been
+rag-tag group of researchers, scholar publishers, and a few well-financed OA publishers,
+such as BioMed Central (for-profit and now owned by Springer) and PLoS (non-profit
+foundation-funded). The opponents of OA are the corporate and society publishers,
+operating through organizations such as the International Organization of Science,
+Technical and Medical Publishers, where concern has been expressed that “achieving 
+5
+widespread sustainability for open access journals will not be particularly quick or easy”
+given that the two leaders in OA publishing, BioMed Central and PLoS, were not “even
+close to profitability,” while fear abounded that OA would have “have a serious impact
+on journal subscriptions” (Ware, 2006, p. 4). In this way, some publishers have turned
+OA into an ethical dilemma: Do efforts to make research and scholarship more widely
+available to the public, educators, and scholars justify placing publisher and society
+revenues at risk?
+We think that the answer is an emphatic yes, especially given the lack of evidence of such
+a risk at this point. The economic viability of the various open access models may not be
+assured in this time of transition, with bookstores closing and the record industry in a
+tailspin. However, the Directory of Open Access Journals (DOAJ; http://www.doaj.org/)
+operated by the University of Lund Library lists well over 6,000 OA peer-reviewed
+journals. This includes large commercial publishers such as BioMed Central, thousands
+of small journals, and everything in between. The Public Knowledge Project
+(http://pkp.sfu.ca) is tracking over 8,000 OA journals using its open source software
+(Open Journal Systems) the majority of which are not in DOAJ. It difficult to tell what
+percentage of journals are OA, as the commonly used total of 25,000 journals (Harnad et
+al., 2004) is clearly itself only a portion of the journals currently being published.
+Still, it can be said that a good number of journals are making a go of it with OA. A study
+of the journals using the free open source software developed by Public Knowledge
+Project (with which we work) found that the scholar-publisher dominates these titles,
+with an average per-article cost under $200 USD (Edgar & Willinsky, 2010). In addition, 
+6
+the majority of large commercial publishers now provide an OA choice within their
+subscriptions journals. That is, authors can purchase OA, in effect, for their individual
+article through a substantial “article processing fee,” in the area of $3,000, paid for by the
+author’s research account or institution. A number of major corporate publishers, such as
+the Nature Group and Wiley, have recently announced new journals that will be OA, on
+this article-processing fee basis.2
+This could well signal a shift in publishing models. If
+publishers move their economic model from high-priced subscription journals to highpriced
+article-processing fees, that may well put new pressures on research budgets and,
+for those without generous funding, university budgets. This commercialization of OA
+will need to be evaluated in comparison to non-commercial approaches, including those
+pursued by the vast majority of OA journals, which do not charge article-processing fees.
+A second channel to open access that also appears to be proving itself economically is the
+author self-archiving route. Somewhat more than 60% of all publishers (including the
+publisher of this journal) allow authors to deposit their pre-prints and/or post-prints in
+OA archives or on their websites (SHERPA/RoMEO, 2011). In the case of one of the
+oldest pre-print repositories known as arXiv.org, the time from deposit to citation has
+decreased as the repository approaches 100% of the publications in high energy particle
+physics and astrophysics (Swan, 2007). Providing pre-prints (post peer-review) ensures a
+rapid turnaround between research and uptake, without sacrificing quality. There are now
+over 1,800 open access repositories in which to deposit their pre- or post-prints (ROAR,
+2011). According to one estimate, the time needed to self-archive is less than 10 minutes
+per paper and, assuming that any one of the co-authors can perform the work, even a
+prolific scholar would need to invest no more than 40 minutes per year on self-archiving 
+7
+time (Carr & Harnad, 2005). The few keystrokes and time cannot, by any standard, be
+considered onerous and the institutional repository alternative provides an answer to
+those who are concerned about the quality of OA journals.
+The willingness of commercial publishers to adopt OA policies for their authors
+demonstrates that the publishing industry itself accepts the ethical imperative of OA.
+They are not taking any chances with this perceived risk, and are allowing that it may yet
+play a role in their long-term sustainability if not profitability. We would be remiss in
+overlooking some the potential effects of researchers making their work available as soon
+as it has been accepted through an institutional or central repository. When looking at the
+entire research cycle, the time between finishing the research and it being used is one of
+the only aspects of the cycle that can easily be improved. For their part, publishers have
+yet to report a decline in subscription revenue that can be attributed to author archiving,
+although they have observed a drop in visits to their websites, which they blame on OA
+(Ware, 2006, p. 4). As a result of these various efforts, somewhat more than twenty
+percent of the literature published in 2009 has been made available on an open access
+basis through authors archiving their work or publishing in open access journals (Björk et
+al., 2010). It all adds up to a certain viability for OA, and reduces the ethical dilemma
+posed by publishers who hold that OA places publisher revenues at risk and thus
+undermines the very publishing process.
+The other side of this ethical question concerns the demonstrable value of OA. Is it
+having any impact on the readership and utilization of the work that is being made freely
+available? The evidence gathered to date indicates that this is the case. Work that is made 
+8
+OA is attracting more readers than similar materials that have not been made OA; what
+can also be said is that OA materials are also being cited more often, according to the
+majority of studies that Stephen Hitchcock surveys on this phenomenon (2011). This
+vanity and career-advancing aspect of OA may even seem to compromise the ethical
+element of more widely circulating this knowledge. Professorial vanity poses as an
+ethical risk, as noted by Steven M. Cahn, former provost of the Graduate Center, CUNY,
+in introducing the twenty-fifth anniversary edition of his Saints and Scamps: Ethics in
+Academia (2011). But this OA advantage in citations and readership is also part of the
+transition, with early adopters rewarded, while others play catch-up, at which point the
+vanity-advantage disappears.
+Where the large publishers have joined in on the efforts to provide OA out of an ethical
+concern for access in the world’s poorest nations, as with bio-medical (the HINARI
+program), agricultural (the AGORA program) and environmental research the (the
+OPARE program), the impact has been considerable. For example, 2.5 million PDFs have
+been downloaded by non-research institutions in developing countries alone (medical
+schools, teaching hospitals, and government offices) between 2003 and 2006 through the
+World Health Organization’s Health InterNetwork Access to Research Initiative
+(HINARI, 2006). However, this only points to the ethical gap faced by developing
+countries that are not poor enough to qualify for these programs, such as India, as well as
+the disciplines and areas of knowledge that are not covered by these programs (Aronson,
+2004).
+Now some have also argued against OA by pointing out that some sensitive research 
+9
+material could pose a risk to the public. Controversial cases, such as the alleged link
+between MMR vaccines and Autism, have been used as examples (Wakefield et al.,
+1998). We would argue that limiting access on the basis of financial resources is not an
+ethical, but rather an expedient, way to protect the public interest. The public, in turn,
+benefits from being able to judge the evidence for themselves, by reading both the
+original Wakefield et al. (1998) article and the evidence of fraud (Deer, 2011). However,
+we are willing to concede that those who seriously believe that their research would cause
+harm if released to the public are exempt from any moral obligation to distribute their
+work widely. However, it is worth noting that the U.S. and U.K. governments have
+recognized that access to health research sponsored by the National Health Institute and
+the Department of Health/National Institute for Health Research, respectively, should be
+made publicly available to health personnel and patients (NIH, 2011; DH/NIHR, 2011).
+However, the same principle applies to other fields, even if not all have such direct
+implications for physical well-being. As a further endorsement of the OA approach to
+sharing knowledge, just under 200 funding agencies and institutions (including
+departments and some entire universities) have passed policies calling for the deposit of
+at least the final draft of published work in OA archives (ROARMAP, 2011).
+Be that as it may, it would be unfair to characterize this as an issue of the wealthy
+needing to provide access to the poor, not least because much of the research that goes
+behind pay barriers originates in lower-income countries. In the North American context,
+the rising costs of subscriptions are placing limits on what even the wealthiest libraries
+can afford (ARL, 2006; K4All, 2011) and students have begun to claim a right to open
+access research (Right to Research Coalition, 2011), as too have taxpayers and patient 
+10
+advocacy groups (Alliance, 2011). The voices of librarians, students, patients, and
+scholars on the issue are a sufficient indication that there is a demand for greater access.
+The university has long been regarded as a center of knowledge creation, one that has
+often been held to strict ethical standards. And certainly when it comes to the best ways
+of engaging in scholarly publishing, we can accept that there will be debate as to where
+the balance lies in terms of how to organize, finance, and structure this increased access
+to knowledge. What we cannot do is ignore the ethical dimensions of this issue. We must
+come to a shared understanding of what our obligations are in undertaking this research
+and scholarship. As we found in recent work on academic ethics, even those who are
+taking the lead in defining the scope of ethical matters in higher education have yet to
+consider the moral good to be realized by taking advantage of new technologies to
+increase access to research and scholarship. Our hope is that as we might move forward
+“in search of the ethical university,” so that the ways and means by which we distribute
+what we have learned, as a matter of public trust and public good, might become more
+public and widely available. It seems like the right thing to do.
+References
+Alliance for Taxpayer Access. 2011. Retrieved from http://www.taxpayeraccess.org/.
+ARL. 2006. Monograph and serial expenditures in ARL libraries, 1986-2006. Retrieved
+from http://www.arl.org/bm~doc/monser06.pdf 23 March 2011.
+Aronson, B. 2004. Improving online access to medical information for low-income
+countries. The New England journal of medicine 350(10), 966-8. Retrieved from
+http://www.ncbi.nlm.nih.gov/pubmed/14999107 23 March 2011.
+Bailey, C. Jr. 2010. Transforming scholarly publishing through open access: A
+bibliography. Retrieved from http://digital-scholarship.org/tsp/transforming.htm
+11
+Björk B-C; Welling P, Laakso M, Majlender, P, Hedlund, T, & Gudnasson, G. 2009.
+Open access to the scientific journal literature: Situation, PLoS ONE 23(6). doi:
+10.1371/journal.pone.0011273 23 March 2011.
+Cahn, S.M. 2010. Saints and Scamps: Ethics in academia. Plymouth, UK: Rowman &
+Littlefield Publishers.
+Carr, L., & Harnad, S. 2005. Keystroke economy: A study of the time and effort involved
+in self-archiving. Retrieved from http://eprints.ecs.soton.ac.uk/10688/ 23 March
+2011.
+Davis, P.M. 2009. How the media frames open access. Info 12(1). Retrieved from doi:
+10.3998/3336451.0012.101 23 March 2011.
+Deer, B. 2011. How the case against the MMR vaccine was fixed. British Medical
+Journal 342:c5347
+DH/NIHR. (2011). DH / NIHR funded research and UK PubMed Central. Retrieved
+from
+http://www.nihr.ac.uk/research/Pages/Research_Open_Access_Policy_Statement.asp
+x 23 March 2011.
+Edgar, B. D., & Willinsky, J. 2010. A survey of the scholarly journals using Open
+Journal Systems. Scholarly and Research Communication 1(2). Retrieved from
+http://journals.sfu.ca/src/index.php/src/article/view/24/41 23 March 2011.
+Eysenbach G. 2006. Citation advantage of open access articles. PLoS Biol 4(5).
+Gallant, T. B. & Goodchild, L. F. 2010. Introduction, in T. B. Gallant, (Ed.) Creating an
+ethical academy: A systems approach to understanding misconduct and empowering
+change, pp. 3-12. New York, NY: Routledge.
+Gallant, T. B. & Drinan, P. 2010. The Future of the Ethical academy: Preliminary
+Thoughts and Suggestions in T. B. Gallant, (Ed.) Creating an ethical academy: A
+systems approach to understanding misconduct and empowering change, pp. 215-
+218. New York, NY: Routledge.
+Harnad, S., Brody, T., Vallieres, F., Carr, L., Hitchcock, S., Gingras, Y., Oppenheim, C.,
+Hajjem, C., & Hilf, E. 2004. The access/impact problem and the green and gold
+roads to open access: An update. Serials Review 34: 36-40.
+HINARI. 2006, September 6. Who is Using HINARI. Bulletin of the World Health
+Organization, 84(9), 685-764. Retrieved from
+http://www.who.int/bulletin/volumes/84/9/hinari_0906/en/index.html 23 March
+2011.
+12
+Hitchcock S. 2011. The effect of open access and downloads ('hits') on citation impact: A
+bibliography of studies. Unpublished annotated bibliography. Retrieved from
+http://www.opcit.eprints.org/oacitation-biblio.html 23 March 2011.
+K4All. 2011, February 2. Press release - Librarians are angry and they're not going to
+take it anymore. Retrieved from http://www.k4all.ca/news/2011/02/press-releaselibrarians-are-angry-and-theyre-not-going-take-it-anymore
+23 March 2011.
+NIH. 2011. NIH Public Access Policy Details. http://publicaccess.nih.gov/policy.htm
+Right to Research Coalition. 2011. Retrieved from http://www.righttoresearch.org
+ROARMAP: Registry of open access repository material archiving policies. 2011.
+Retrieved from http://roarmap.eprints.org/ 23 March 2011.
+SHERPA/RoMEO. 2011. Statistics on publishers' copyright policies & self-archiving.
+Retrieved from http://www.sherpa.ac.uk/romeo/statistics.php 23 March 2011.
+Swan, A. 2007. Open access and the progress of science: the power to transform research
+communication may be at each scientist's fingertips. American Scientist. Retrieved
+from http://www.americanscientist.org/issues/pub/open-access-and-the-progress-ofscience
+23 March 2011
+Wakefield A.J., Murch S.H., Anthony A., Linnell J., Casson D.M., Malik M., Berelowitz
+M., Dhillon A.P., Thomson M.A., Harvey P., Valentine A., Davies S.E., WalkerSmith
+J.A. 1998. Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and
+pervasive developmental disorder in children. Lancet 351(9103), 637–41.
+Ware, M. 2006. Scientific publishing in transition: an overview of current developments.
+Bristol: Mark Ware Consulting.
+Wellen, R. 2004. Taking on commercial scholarly journals: Reflections on the open
+access movement. Journal of Academic Ethics 2(1), 101-118.
+
+NOTES
+1 Richard Wellen calls OA advocates to task for failing to recognize that the
+commercialization of research itself (for example, by pharmaceuticals) is “almost
+certainly a greater long-run threat to openness than today’s publication system”
+(2004, p. 14).
+2
+For Nature Group see http://www.nature.com/srep/marketing/index.html; for
+Wiley see http://www.wileyopenaccess.com/view/index.html. 

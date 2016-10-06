@@ -1,0 +1,796 @@
+Alperin, J.P., Fischman, G.E. & Willinsky, J. (forthcoming). Scholarly
+Communication Strategies in Latin America's Research-Intensive Universities. Revista
+Educación Superior y Sociedad.
+Stanford University makes this peer-reviewed final draft available under a Creative Commons
+Attribution-Noncommercial License. The published version is available from the publisher, subscribing
+libraries, and the author.
+Scholarly Communication Strategies in Latin America's ResearchIntensive
+Universities
+Juan Pablo Alperin
+Gustavo E. Fischman
+John Willinsky
+Introduction
+Open Access—scholarship that is ―digital, online, free of charge, and free of most
+copyright and licensing restrictions‖ (Suber, 2011)—has dramatically changed the
+research landscape in universities worldwide in the twenty-first century.1
+In Latin
+America, regional Open Access initiatives (if not officially labeled ―open access‖) have
+permeated most research-intensive universities and national science evaluation systems
+and have begun to alter the way that local research is perceived. Furthermore, the
+prominence of Open Access, regionally and globally, has become a significant force in
+transforming previous traditions and systems used by universities in Latin America in the
+production and access to scientific knowledge, having a profound influence on its
+position within what might be thought of as the global knowledge exchange.
+What has become clear is that Latin American journals are using the open access
+publishing model to a far greater extent than other regions arising out of both the sense of
+public mission among the Latin American University (LAU)
+2
+and open access‘s
+effectiveness for sharing knowledge, and there is reason to believe that this is
+contributing to an increased presence and impact for this literature. As well, journals in
+this region are increasingly turning to large-scale non-commercial open access publishing
+portals to build the reputation of journals that meet accepted ―international‖ editorial
+standards. And thirdly, journals in the region are employing open source software
+solutions, principally Open Journal Systems, to manage their publishing processes online.
+These current initiatives speak encouragingly to the region‘s growing contribution to a
+global knowledge exchange and to the research literature‘s standing as a public good. At
+
+1
+Peter Suber (2011), one or the most prominent Open Access advocates, provides a terrific
+overview of Open Access, including a timeline, overview, and the concise definition presented here. See
+also for a broad overview on Open Access, Willinsky (2006).
+2 Given the great diversity in the Latin American higher education landscape, the term ―Latin
+American University‖ as used here is not intended to encompass all Latin American institutions. Rather, it
+is intended to represent the institutions that are providing a model for the rest (see Bernasconi, 2007).
+the same time, this assessment of scholarly publishing in Latin America suggests that
+further advances could be achieved through increased coordination, technical
+efficiencies, and editorial support in the integration of these initiatives.
+The Budapest Open Access Initiative (BOAI), drafted in a meeting organized by
+the Open Society Institute in December of 2001, gave this emergent movement its name
+Open Access (OA) and some definitions of what that meant. The initiative begins by
+noting that OA is made possible by the convergence of ―an old tradition and a new
+technology … The old tradition is the willingness of scientists and scholars to publish the
+fruits of their research in scholarly journals without payment, for the sake of inquiry and
+knowledge. The new technology is the internet.‖ (―Budapest Open Access Initiative,‖
+2002; opening paragaph). In Latin America, the broad embrace of OA was entirely
+consistent, in a very timely way, with the latest of many transformations to the higher
+education system in the last decades.
+The transformations explored by many of the authors (Bernasconi, 2007;
+Didriksson, 2007; Gentili & Levy, 2005; Malagón Plata, 2008; López Segrera, 2007;
+Fischman, 2008; just to name a few) include: expanded enrolments; consolidation of the
+private sector (in some countries the largest provider of higher education services);
+acceptance of social sectors previously excluded from the universities; expansion of
+fields of study; expansion of graduate programs (MAs, MBAs, and PhDs);
+implementation of accreditation and national evaluation practices; incorporation of new
+forms of delivery of classes (TV, hybrid, online); and great expansion in the use of
+computers. These transformations were spurred on by a blend of local and global
+demands, needs, and environments, with this latest set of developments reflecting the
+impact of the digital era on scholarly communication, especially as digital technologies
+enable significantly greater levels of participation and distribution in this communication
+(Babini & Fraga, 2006; Fischman, Alperin, & Willinsky, 2010; Holdom, 2005; TerraFigari,
+2007).
+Collectively, these transformations have presented a serious challenge to a model
+of university that focused on professional preparation and ―state-building‖ (Ordorika &
+Pusser, 2007), where research was done by a small group of scholars often located in the
+most prestigious institutions and centers (Balan, 2007; Malagón Plata, 2005).
+3
+In
+response to those challenges, many institutions are adopting a more ―research intensive‖
+model.
+4
+Two global trends in particular are entangled with the transformations
+themselves, leading to the of the research intensiveness (Bernasconi, 2007). The first is a
+complex combination of economic conditions, state budget limitations, and massive
+expansion of enrolments coupled with the rapid expansion of the private sector that have
+undercut the prominent role of the national universities, making questions about access
+to, and the quality of, higher education more complex than ever. The second is the
+worldwide rise of the U.S. idea of a research university, which has gained ascendancy as
+the model to follow (Bernasconi, 2007). A third trend, intricately tied to the previous two,
+
+3 Ordorika and Pusser (2007) note that institutions like the Universidade de São Paulo, Universidad
+Nacional Autónoma de México (UNAM) and the Universidad de Buenos Aires can be considered ―statebuilding
+universities,‖ responsible in large part for ―building the material conditions for the expansion and
+consolidation of their respective States, as well as the intellectual and social legitimacy of those states‖
+(192)
+4 While the word model has multiple meanings, in this context ―model‖ primarily refers to the
+definition that pertains to the idea of an ―example to follow‖ 
+is the emphasis on developing alternative sources of funding for higher education, as well
+as the increasing social demands for universities to contribute to social and economic
+development (Arocena & Sutz; 2001; Thorn & Soo, 2006; p3).
+5
+The three trends all lead
+to increased importance of ―research activities‖ among most universities in the region,
+including its incursion into institutions not typically associated with scientific research.
+The open access movement has complemented these transformations and global
+trends. In one sense, OA could not appear in Latin America without the increasing role of
+research in the LAU. After all, OA cannot exist without a body of literature that can be
+opened. But in another sense, OA is a significant player in shaping the research landscape
+and it is OA and OA initiatives that drive some of the transformations. This paper seeks
+to document some of these initiatives and how they are affecting the evaluation of
+research, the definition of editorial quality, and the organization of the research itself in
+the digital era. We begin, however, with a brief exploration of the changing role of
+research in the LAU landscape.
+Research in the New LAU Landscape
+Access to research is bound to play a pivotal role in the very possibility of a researchfocused
+university landscape. The shift towards the research and entrepreneurial
+university was facilitated, at many points, by the rise of the Internet and the first
+experiments in electronic publishing, both of which are integral parts of the OA
+movement, research dissemination, and scholarly communication today. However,
+whether freely disseminated or not, research was circulating much more widely via the
+Web, with increasing emphasis on the bibliometrics of citation rates and impact factors
+(De Bellis, 2009) as a result of publishing becoming the defining aspect of an
+institution‘s reputation. As a result, LAUs are driven by a growing awareness of their
+research output, fuelled through their own imperative or through national policies.
+A further reflection of this greater focus on research and knowledge-production is
+found in the increase in post-graduate degrees awarded in the region. Aupetit (2007)
+reports an increase in the number of doctoral degrees awarded in Latin America and the
+Caribbean as 298% between 1993 and 2003, although the figure drops to 181% if one
+takes Brazil out of the equation, while Master‘s degrees increase threefold (RICYT,
+2010). Brazil leads Latin America in with over 50% of researchers (both in Universities
+and at research centers) holding doctorate degrees, but other countries such as Argentina,
+Colombia, Ecuador, and Uruguay have between 10–25% of their researchers with
+doctorate degrees (Aupetit, 2007).
+The increase in researcher preparation, as a result of the increase of post-graduate
+programs, has also been supported at the national level in many countries. From the
+1980s onward, Latin America enacted policies to professionalize the research career, as
+another in the moves toward a global alignment within higher education. The National
+System of Researchers in Mexico was established in 1983 as a way of providing
+incentives and rewards for carrying on research activities within the scope of academic
+careers. Other countries followed suit, such as the Venezuela with the Program for the
+Promotion of the Researcher and Argentina‘s Researcher Career program through the
+national science council.
+
+5 The increased emphasis worldwide to connect research carried out at universities with the external
+world, and in particular with the economy, is often referred to as the third mission.
+The establishment and management of such programs required a means through
+which to encourage, measure, and reward research output. Most countries seemed to have
+opted, at least in this initial phase, for rewarding the production of those who were able to
+demonstrate their participation in already established research elites, as indicated by
+collaboration with research institutions or through publication in the highest ranked
+journals of the global North. In their earlier iterations, research-promotion programs
+relied on existing ―gold standards,‖ such as the Science Citation Index (SCI), that
+provides a limited list of ranked publications.
+6
+This reliance on American and European
+measures ensured that only a very small number of scholars were recognized, with no
+middle ground or clear ladder of development within the region. This reliance also
+ensured that certain disciplines, such as the medical sciences, were rewarded since
+publishing in international journals was already an existing practice, at least for the top
+researchers in the region. A collateral result, however, was that foreign (and mostly
+English-language) journals were recognized as the place of ―real‖ scholarship, which
+contributed little if anything to the growth and development of scholarly communication
+and publishing within the region.
+Even today, and certainly more so the case earlier, the SCI has very few Latin
+American journals7
+and is comprised in large part of English-language publications.
+8
+McVeigh (2004) reported that of the 239 OA journals indexed by the ISI in 2003, 33
+were from South and Central America, compared to 58 for North America and 45 for
+Western Europe. The percentage shares of OA of all indexed journals for the same
+regions were 42,3 %, 1,5 % and 1,1 % respectively, clear evidence of how fast
+established high quality Latin American journals had made their e-versions openly
+available. A recent study by Chinchilla-Rodriguez & Moya Anegon (2010) has shown
+that of all the roughly 15000 peer reviewed journals indexed in 2010 in the Scopus
+database, the proportions that were OA were 73,9 % for Latin America, 4,9 % for North
+America and 6,9 % for Europe respectively. As we come back to later, OA has caused an
+important shift away from the use of databases such as SCI and Scopus as a measure of
+scientific output, but we cannot ignore the fact that journals indexed in SCI are still
+amongst the most highly rewarded mediums for disseminating research. These have
+traditionally been the most highly cited journals, so this recognition is not unwarranted,
+but SCI was a late print phenomenon in a world that is now entering a digital era, in
+which new approaches are bound to flourish, before new standards take shape. In the
+meantime, the use of SCI bibliometrics as the sole measure of research quality has
+pervaded the evaluations systems of both Latin American national science councils and
+Latin American universities, and done so on the very eve of the eclipse of the printjournal
+culture out of which it arose.
+Thus the importance of attending to how these systems of evaluations have become
+significantly more complex, as national science councils and universities attempt to
+
+6
+Science Citation Index forms part of the ISI Web of Science, owned by Thompson Reuters, which
+indexes and collects citations from a selective list of approximately 8,000 journals across all disciplines
+7 Red de Indicadores de Ciencia y Tecnología -Iberoamericana e Interamericana (RICYT) reports
+that LAC makes up 4.27% of papers cited in SCI for 2008 (RICYT, 2010), despite LAC making up a much
+larger portion of the world population.
+8 As a point of comparison, Canada (a country of just over 30 million) comprises 4.25% of the 2008
+citations in SCI. The United States of America, not surprisingly, comprises a much larger proportion with
+28.84% of all citations in SCI in 2008 (RICYT, 2010).
+codify traditional evaluation mechanisms in the midst of radical digital-era changes in
+scholarly communication. One result of this approach is that the same criteria is used to
+evaluate all scientists and scholars across all fields, even as SCI and related measures
+have never provided equal coverage of disciplines and regions.
+In many cases, countries opted for generating lists of places where publishing was
+considered more desirable—a practice that continues today. Argentina‘s national science
+council, for example, evaluates Argentinian journals for inclusion into a list of what is
+considered a ―core‖ national journal.
+9
+The list is currently comprised of 138 journals,
+with 88 titles from the Social Sciences and Humanities, 22 from the Natural and Exact
+Sciences, and 6 from Engineering, Agricultural, and Material Sciences.
+In other cases, national science councils opt for classifying all journals based on
+editorial criteria such as the use of external peer reviewers, the number of subscribers,
+and percentage of original research published. Colombia, one of several countries with an
+elaborate evaluation system, classifies journals under an A1, A2, B, or C scheme.
+10 These
+journal classifications are subsequently used in faculty and researcher evaluations, under
+the auspices of the research incentive programs described above.
+The difference between an ―A‖ (top-tier) and a ―B‖ (second-tier) journal in many
+cases depends on the so-called ―international‖ quality of the journal, largely referring to
+whether it is English-language or not (Lillis & Curry, 2010). In Colombia, and probably
+elsewhere, the classifications do not accurately reflect the international visibility and
+usage (Romero-Torres, Tejada & Acosta, 2010). Yet, such definitions have been in place
+for several years have been largely institutionalized, but not completely entrenched.
+Recently, the Venezuelan Program for the Promotion of the Researcher, organized
+by the Venezuelan National Science Council changed to favour scholars who publish in
+Latin American journals. Until 2002, this program gave the highest recognition and
+rewards for publishing in journals indexed by SCI. However, since 2003, articles
+published in certain regional OA portals qualify for the top recognition. This change
+resulted in the rise of the number of researchers that qualify for the program and in an
+increased recognition for set of journals, including national social science and humanities
+titles, that goes well beyond those included in SCI (Marcano & Phélan, 2009).
+The standards by which journals are judged ―international‖, and thus of higher
+quality than national or regional, are at play with scholarship‘s assumed universality in its
+methods, practices, and norms. The burden of these distinctions is palpable among
+researchers and scholars in the region. In a previous study, we found that the debate
+around what constitutes scholarship/science was often heated and especially pitted those
+from the arts, social sciences, and humanities against those in the natural sciences, around
+issues of, for example, the language of communication, between the sciences‘ preference
+for English (that is, ―international‖) or the others use of Spanish or Portuguese (that is,
+―regional‖) (Fischman et al., 2010). In Fischman et al. (2010), we also warn of the
+dangers that this creates by fomenting a particular style of journals—those that are most
+like other journals already indexed in the SCI.
+
+9 The requirements for classifying as a core journal can be found at:
+http://www.caicyt.gov.ar/nucleo-basico-de-revistas-cientificas/requisitos
+10 Details of the classification criteria can be found at
+http://scienti.colciencias.gov.co:8084/publindex/docs/informacionCompleta.pdf
+One of the dangers of focusing attention to such journals is that only ―generic‖ or
+―colonized‖ journals will emerge from the region. Furthermore, the academic community
+has a disincentive to submit, peer-review, or form part of the editorial board of journals
+that do not belong to accepted lists or are not considered ―international.‖ Yet, the research
+community is far better served by having a wide range of journals operating at different
+levels of scholarly competitiveness, so that researchers have opportunities (a) to publish
+while they are still learning the ropes, (b) to climb the ranking ladder, rather than having
+to make the leap to top-ranked journals in a single bound, and (c) to participate in peerreview
+and editorial processes that also help to forge a research culture.
+The risks involved in not building up this range and depth of journals have been
+noted within Latin American academic community. As LAUs transform into researchintensive
+institutions, a number of OA initiatives have accompanied the changes and
+provided new ways—and new outlets—for disseminating Latin American scholarship.
+The next section outlines some of the most important initiatives, which leads to the role
+that these initiatives have played during the transformation of the LAU.
+Open Access Initiatives
+One of the responses to many of the issues outlined above, and with funding from the
+Panamerican Health Organization and the Science Foundation of the State of Sao Paulo
+in Brazil, was the launching of the Scientific Electronic Library Online (SciELO) in
+1997.
+11 SciELO began as a purely Brazilian initiative for journals from the medical
+sciences. Since then, SciELO has come to provide a portal with free full-text online
+access to 817 journals. More than providing access to these journals, SciELO enabled for
+the first time, information about citations to Latin American publications that are not part
+of SCI.
+In many ways, SciELO quickly became Latin America‘s very own version of a
+SCI, with all its virtues and weaknesses. In its original iterations, SciELO only admitted
+journals from the medical sciences and later other sciences, such as physics, chemistry
+and mathematics leading to much resentment from those in other disciplines for
+propagating the notion that the scholarship produced by sociologists, psychologist, or
+anthropologist and those working within the so-called soft sciences were not real
+scientists. One of the responses to SciELO‘s disciplinary focus, was the formation in
+2002 of the Red de Revistas Científicas de América Latina y el Caribe, España y Portugal
+(RedALyC).
+12 At its outset RedALyC was focused entirely on the social sciences. As
+both portals grew and began to indirectly compete with one another—over which one
+would be considered Latin America‘s repository of top-tier journals—both removed their
+disciplinary restrictions (although evidence in RedALyc‘s historical focus are still
+evident, with 532 of the current 758 journals in the social sciences and humanities).
+What is interesting to note, however, is that neither of these initiatives was borne
+out of the Open Access movement per se, although both portals provided, from the onset,
+free and unrestricted access to their content. The compliance with the OA definition was
+not done as part of a philosophical imperative, but rather out of the overriding objective
+of providing visibility to the research produced regionally. In fact, the open access
+movement in Latin America has been widely embraced, but with little conscience of its
+
+11 The regional SciELO site and links to country-specific sites can be found at: http://scielo.org
+12 The RedALyC portal can be found at: http://redalyc.org
+existence (Alperin, Fischman, & Willinsky, 2008; Villanueva, 2006; Merelo, 2010). With
+global participation in Open Access running at somewhat over 20% of the research
+literature (Björk B-C et al. 2010), it seems clear that LAU are utilizing this model to a far
+greater extent, judging by the two principal portals and the work cited earlier of
+Chinchilla-Rodriguez & Moya Anegon (2010). Given that OA became the prevalent
+mode of publication without conscious alignment with the OA movement, one must be
+cautious when asking questions regarding the role of open access on the LAU and on
+Latin American scholarship.
+In the following section we provide some insight on the role of that OA has played
+in the region, which, in large part, is the role of these two OA initiatives. The boundary of
+what can be attributed to OA as a movement versus what can be attributed to OA
+initiatives is not clear. As the strongest leaders of OA in the region, SciELO and
+RedALyC are intricately tied to the movement, despite being conceived in parallel. There
+are, of course, other portals, initiatives, journals, and policies that can and should be
+noted. Among them, the UNESCO World Social Science Report 2010 specifically
+mentions the digital library project of the Consejo Latinoamericano de Ciencia Sociales
+(CLACSO)13 and African Journals Online (AJOL)
+14, as well as the two aforementioned
+projects. All four instances, three in Latin America and one in Africa, are examples of
+wide scale provision of digital content generated within the region as a way of increasing
+the visibility of local research through the benefits of economies of scale. We would add
+to the list the numerous institutional journal portals at universities such as the
+Universidad Nacional Autónoma de Mexico, the Universidad Nacional de Colombia,
+Universidade Federal do Rio Grande do Sul (Brazil), and the Universdad Nacional de La
+Plata (Argentina).15 Regardless of any of these projects‘ explicit alignment with the OA
+movement, their inception and insertion into the institutions that govern Latin American
+scholarship has had profound effects on both the output and consumption of Latin
+American research.
+Open Access and Evaluating Research
+Among the most prominent places where OA has played a role has been in broadening
+the visibility, recognition, and impact of journals published in Latin America. As SciELO
+and RedALyC gained in numbers and spread across the region, they began to garner the
+critical mass necessary for drawing regional and international attention. The linear
+growth of RedALyC and SciELO titles has persisted over time and shows no immediate
+sign of saturation (
+
+13 http://www.clacso.org.ar
+14 http://ajol.info
+15 Respectively, these four portals can be found at http://journals.unam.mx/,
+http://revistas.unal.edu.co/, http://seer.ufrgs.br/, and http://www.revistas.unlp.edu.ar/. Such portals are too
+numerous to list here.
+Figure 1). In the first months of 2011, RedALyC received 8.5% of discernible visits from
+the United States and over 15% from outside Latin America, the Caribbean, Spain and
+Portugal.16 The attention and prestige associated with the portals themselves gets ascribed
+to its journals, and literally connects Latin America to the global community. If by no
+other measure, the critical mass of journals at scielo.org and redalyc.org ensures higher
+search engine ranking (in Google, Google Scholar, Bing, Yahoo, etc) for all of the
+journals.17 This affords them the designation of ―international‖ within Latin America
+when it comes to government endorsement of journal publications.
+
+16 Usage by country cannot be accurately determined from the statistics provided, as 46% of visits
+are not geo-located. Details of access by country can be found at
+http://redalyc.uaemex.mx/redalyc/stats/estUsu/RptGral/Enero-Junio_11_vispai.html
+17 None of the major search engines make their ranking algorithm public, but unofficial page rank
+calculators such as checkpagerank.net and prchecker.info suggest that both http://scielo.org and
+http://redalyc.org are ranked 8/10.
+Figure 1 Number of Journals in RedALyC and SciELO since 2002 (Source: http://archive.org
+snapshots of http://www.scielo.org and http:www.redalyc.org, not all years available)
+The higher visibility achieved both in the real and virtual worlds have become, at
+least in some instances, valid measures of internationality, as seen by their inclusion in
+some national evaluations in the region (Marcano & Phelan, 2009). As the visibility of
+journals in these portals increased, their acceptance as valid measures of ―quality‖—
+however that is defined—ensured that the portals played a role in researcher incentive
+systems. In many instances, the relationship between the core lists and the national
+science councils is further blurred, as the councils are the same institutions who fund and
+manage the national SciELO portals. Such arrangements mean that journals have `to
+prove that they are ―high quality‖ to make it into the portal, which only serves to further
+separate the journals that are in the portal and those that are not on the basis of this
+ascribed reputation, while doing little to help journals across the board to improve their
+scholarly quality and processes, An early example of this arrangement was found in the
+first SciELO site outside of Brazil in Chile (scielo.cl) through the CONICYT, but
+SciELO sites are also administered or directly funded by the national governments of
+Argentina (scielo.org.ar), Brazil (scielo.br), Peru (scielo.org.pe), and Venezuela
+(scielo.ve). Even in places where the science council is not financing or administering the
+SciELO portals, there have been instances where SciELO is explicitly mentioned in lists
+of ―international‖ indexes that count towards making a journal part of the core list (i.e., in
+Colombia).
+In Argentina, where the same government agency is in charge of administering the
+SciELO site and creating a list of core national publications (CAICyT), the relationship is
+one to one. When a journal is considered of sufficient quality to join the core list of
+journals, it is allowed to enter the SciELO site. As another example, in Colombia, the 
+SciELO site is administered from within the Universidad Nacional de Colombia, but
+COLCIENCIAS has included SciELO in its list of acceptable international indexes
+necessary for a journal to be classified as an ―A‖ journal. The same is true for Venezuela.
+In fact, Venezuela has also embraced RedALyC as a sufficient measure of quality,
+coordinating with the RedALyC selection committee so as to have a one-to-one
+correlation between Venezuelan journals in the RedALyC portal and Venezuelan journals
+that form part of the national list of top journals.
+Their accreditation of OA portals in national systems of evaluation challenge the
+notion that the best science can be found outside the region. SciELO and RedALyC have
+already become a credible and local alternative to publishing in the scientific ―center.‖ As
+Guédon (2010) point out, initiatives like SciELO (and by extension RedALyC) are one
+possible way for the boundaries between ―center‖ and ―peripheries‖ of science to be
+further blurred. However, the degree of success OA in general and these initiatives in
+particular are having on blurring these boundaries is yet to be determined.
+Through the traditional rankings of journals and measuring of citations, namely SCI
+and more recently Scopus, the evidence suggests that the boundary has not yet been
+sufficiently blurred. While the number of Latin American articles indexed in SCI has
+more than doubled between 1997 and 2007 (Albornoz, Matos Macedo & Alfaraz, 2010),
+authors and articles receive fewer citations than their counterparts from other parts of the
+world (Meneghini, Packer, & Nassi-Calò, 2008; Hermes-Lima, Santos, Alencastro,
+Ferreira, 2007). Yet, the aggregation of publications within OA portals such as SciELO
+and RedALyC permit further analysis that provides an alternate perspective.
+There are few such studies, but work by Packer and Meneghini (2007) suggests that
+as of 2005, 9% of citations in the Brazilian SciELO site were to other Brazilian SciELO
+journals. The same study shows that over 70% of citations are to journals covered by the
+SCI, suggesting that the two spheres of science are connected. What the study does not
+show, however, are the citations going in the other direction (from SCI journals to
+SciELO journals). A map of those citations, or any alternative measure, would provide a
+clearer picture of the effect of the OA portals in blurring the boundaries between the
+centre and periphery mentioned.
+We want to make two other related points. First, is that there is evidence to suggest
+there are those scholars and journals that are purposefully ―staying local‖ with their
+publications, presumably because their target audience is located nationally (Meneghini,
+Mugnaini & Packer, 2006). Second, recent work by Babini (2011) suggests that SciELO
+and (to a lesser extent) RedALyC already reflect the output of the most prominent
+institutions. As just one example, lists of the 50 institutions with most research and most
+visibility from the Scopus-SCImago and SciELO databases coincide on 36 institutions
+(Babini, 2011). The implication is that the SciELO database is capturing a segment of the
+research output that compliments that in so-called ―international‖ databases.
+Yet, a definitive picture of the degree to which OA and OA initiatives have opened
+Latin America literature to the rest of the world and vice versa remains elusive. What is
+clear, however, is that these OA initiatives are leading to a levelling of the publishing
+playing field, with new OA titles turning up among the search results with scholarship
+published in the traditional ―high-prestige‖ channels, such as the journals in the SCI.
+Furthermore, the portals themselves have been incorporated into national and institutional
+evaluation systems and, as a direct consequence, have allowed the initiatives themselves 
+to play a role in the definition of editorial quality. The following section examines this
+role.
+Defining Editorial Standards for Platform Admission
+The legitimacy afforded by national and institutional evaluation systems allowed the
+major OA initiatives to become synonymous with high editorial standards. They were not
+incorporated into the systems of evaluation by sheer existence or size, but rather, by
+imposing certain standards around editorial quality. These standards have come, over
+time, to define the editorial characteristics of a quality scholarly journal. The oldest
+regional initiative related to the quality of scientific publications in Latin America, the
+Sistema Regional de Información en Línea para Revistas Científicas de América Latina,
+el Caribe, España y Portugal (Latindex), set out a list of criteria to be used for entering
+their catalogue as early as 1997. The list now contains over 30 criteria such as using peer
+review, having an ISSN, displaying an editorial board. The two main portals discussed so
+far, SciELO and RedALyC, have both adopted similar criteria as the requirements for
+inclusion.
+The three lists have converged, with eleven common to all three lists and eight
+common to at least two (Table 1). In effect, these three initiatives have created a standard
+set of editorial criteria that all academic journals can look-up to and strive towards. These
+three sets of editorial criteria and the inclusion of one or more of the portals into national
+systems of evaluation, appears as an emerging trend, signalling the characteristics of what
+is considered a ―high quality‖ Latin American publication.
+The criteria can be generally grouped into three categories: those aimed at
+increasing internationality, those aimed at ensuring quality, and those aimed at improving
+metadata/indexing. The adoption, or even consideration, of these criteria as a standard set
+has implications for the research that is subsequently produced and valued. For example,
+the requirement to publish abstracts and keywords in multiple languages (with English
+explicitly mentioned in SciELO and RedALyC‘s lists), suggests that high-quality
+research must be discoverable and, presumably, used outside of Latin America. Similarly,
+the requirements for international authors and editorial board indicate that research
+‗should‘ influence and be influenced from beyond the local context. Such criteria value
+the global circulation of scientific knowledge, in spite of certain journals specifically
+targeting local audiences (Meneghini et al., 2006).
+Of those criteria for improving quality, perhaps the most important is the need for
+peer review. Peer review is widely considered the cornerstone of editorial quality, but it is
+surprising how many journals in the region still lack a well-defined editorial workflow
+with peer review by those outside of the journal‘s own editorial board. During our own
+experience conducting workshops in 11 Spanish-speaking Latin American countries18, we
+anecdotally found that there is still a poor understanding of how peer review should be
+conducted. The OA initiatives have brought peer-review to the forefront of conversations
+between editors and those doing journal quality assessments, by making the requirement
+explicit and through workshops on editorial practices.
+19
+
+18 Details of the workshop countries, content, and participants can be found in Fischman et al.
+(2010) and at http://pkp.sfu.ca/español
+19 In the last 4 years, RedALyC has held two international conferences with a workshop component
+for journal editors. Details of the second meeting can be found at: 
+Other criteria are aimed at organizing the journals‘ metadata and increasing their
+visibility through improved indexing. In this category are the requirements to list article
+metadata on each page, listing author names clearly, listing of editorial teams, and other
+journal information. This point, seemingly trivial, can improve a journal‘s visibility in
+remarkable ways. The following section discusses the way in which these OA initiatives
+have played a role improving the organization and indexing of Latin American
+scholarship, thus facilitating the flow of knowledge.
+
+http://www.redalyc.org/congresoeditores2010/bienvenida2.jsp. Latindex and the International Network for
+Scientific Publications (INASP) have partnered to provide workshops for editors and have held numerous
+workshops in Argentina, Bolivia, Mexico, Costa Rica, and Nicaragua. For more information see:
+http://www.inasp.info/file/10d4c8cde6d0034725cf0be35b0b176b/latindex.html
+Table 1. Entrance requirements for Latindex, SciELO and RedALyC
+Requirement Latindex*
+SciELO** RedALyC***
+mentions editorial team   
+has a minimum number of original research articles   
+author names and affiliations are clearly labeled   
+adherence to publishing schedule   
+displays a table of contents   
+has and displays ISSN   
+displays submission and acceptance dates   
+displays abstracts in Englisha   
+displays keywords in Englisha   
+peer-review with at least two external reviewers   
+indicates a citation style   
+has and displays a publishing entity and location   
+displays article metadata at the beginning of article  
+has defined focus and scope or objectives  
+forms part of any indexing system  
+requests declaration of originality  
+displays URL on homepage (electronic only)  
+has minimum percentage of external authors  
+has minimum percentage of external editorial board  
+provides access to archives  
+has existed for a minimum period of time  
+displays name of director/manager of journal 
+display publishing schedule 
+mentions editorial board 
+displays copyright policies 
+minimum publishing schedule 
+publishes a minimum number of articles per year 
+* This list is a combination of the requirements for print journals and for electronic journals wishing to enter
+the Latindex Catalogue. Some of the parameters are omitted from this list, while others were merged into a
+single line item. Details an be found at http://www.latindex.org/latindex/catalogo.html
+** Journals wishing to enter RedALyC do not need to meet all of these criteria. Some criteria are strictly
+mandatory while others are specified on the basis of ―x number from this sub-list.‖ Many of these line
+items are a combination of multiple requirements. Details can be found at
+http://redalyc.uaemex.mx/redalyc/media/principal/auxHemeroteca/criterios.html
+*** Each country is free to specify its own criteria for entering SciELO. This list was taken from the SciELO
+Chile site. While the criteria for other SciELO sites is similar, it can vary on specific points from the
+selection shown here. Details can be found at
+http://www.scielo.cl/sr_scielocl/CriteriosObligatoriosScielo.pdf
+a Latindex does not explicitly specify English as a second language
+NB1: For the purposes of simplicity, this lists only the major requirements specified by all three portals, but
+purposely leaves out some minor requirements present in only one of the three lists.
+NB2: The requirements have not been literally translated in order to provide the commonality between the
+three separately worded lists. 
+Digital Organization
+Beyond setting a standard for journal characteristics, the three portals have also advanced
+the normalization and organization of metadata. In a highly digital publishing
+environment, the importance of organizing article and journal information is essential for
+a journal to participate in the electronic data exchange and to be indexed by search
+engines and scholarly databases alike. The criteria, as well as the portals themselves, have
+improved the electronic access to Latin American publications.
+In a previous section, we argued that the OA initiatives have given greater visibility
+to Latin American scholarship—at least in principle. By organizing the journal‘s
+metadata and displaying it on their portals for search engines to index and for scholars to
+search, all three major initiatives have increased the potential ―publicness‖ of hundreds of
+journals. The result is that a large portion of Latin American scholarship is currently in
+machine-discoverable format for a global public where it was not before. To their credit,
+SciELO and RedALyC have transformed the research landscape by facilitating the paperto-digital
+transition of the last decade, the effects of which remain to be understood.
+However, the portals have not been alone in this regard. The adoption of journal
+management software and institutional repository software has also played a defining
+role. In particular, the growth of self-managed journals using Open Journal Systems
+(OJS) (an open source journal management and publishing platform)20 and of
+institutional repositories using, primarily, DSpace has been significant. As of August,
+2010, there were 2,245 journals using OJS in Latin America (see Table 2 the for details).
+The growth of institutional repositories is also notable, and while precise counts are not
+available, the work of Pené (2010) points to their increasing presence.
+21 Furthermore,
+Brazil put forward a national law (Projeto de lei 1120/2007) requiring that all universities
+have and receive funding for an institutional repository.
+22 The use of such software and
+its widespread adoption, combined with the OA portals, has done much for organizing
+the digital scholarly production of the region.
+The convergence of such Open Source tools and the Open Access movement more
+broadly might not be fully realized in some realms (Willinsky, 2005), but its convergence
+cannot be ignored with regards to Open Source software related to academic publishing.
+Both OJS and DSpace are important such examples. Although not all journals using OJS
+are OA, a sample of nearly one thousand OJS journal from around the world showed that
+the software is primarily (83%) used to offer immediate OA to their online content
+(Edgar & Willinsky, 2010). Similarly, and almost by definition, the vast majority of
+institutional repositories are OA. Given the close coupling between the software itself
+and the OA movement more broadly, the increased digital organization of scholarship
+and its impact on LAU is affected by the Open Source and Open Access movements
+alike.
+
+20 In the interest of full disclosure, we would like to point out that we are part of the Public
+Knowledge Project, creator of Open Journal Systems.
+21 While there are several directories for Institutional Repositories (IR) to register themselves, there
+seems to be a lack of interest in many institutions to register their repositories, leading to inaccurate counts
+of IR growth worldwide.
+22 The current state of legislation can be found at
+http://www.camara.gov.br/sileg/Prop_Detalhe.asp?id=352237
+Table 2. Number of journals by country currently using Open Journal Systems (August, 2010).
+Country Journals
+Argentina 69
+Bolivia 25
+Brazil 1,615
+Chile 36
+Colombia 235
+Costa Rica 11
+Cuba 11
+El Salvador 2
+Mexico 121
+Nicaragua 1
+Peru 3
+Puerto Rico 12
+Uruguay 2
+Venezuela 102
+TOTAL 2,245
+Conclusions
+The combination of OA and its related technologies has played a role in shaping
+the scholarly communication landscape, especially when considering the expansion and
+adoption by many universities of more research-intensive university models. In this
+regard, the convergence of OA, Open Source, and the Internet, has been, as in other
+contexts, both disruptive and constructive, but showing idiosyncratic Latin American
+traits.
+The OA initiatives and the OA-friendly software have shown this Latin American
+distinctiveness. The fact that OA emerged in Latin America and that the OA initiatives
+have become venues of high prestige has placed OA scholarship at the center of the
+research-intensive LAU. Through the OA initiatives highlighted here, OA scholarship has
+been shaping what research is evaluated and how. As the OA portals enter the evaluation
+systems of universities and nations, their evaluation standards are adopted by the research
+communities. This relationship is, of course, bi-directional. At the same time that the
+community of scholars takes cues from the portals, the portals adapt their evaluation
+practices to suit the needs of the community. However, the consolidation that is taking
+place would not be possible without the digital organization of Latin American research,
+to which the portals and software have greatly contributed.
+OA and OA initiatives could not have such an impact, were it not for the distinct
+qualities of the Latin American context in which they have emerged. In this paper, we
+have chosen to highlight very specific realms in which OA has played a role, but we have
+observed three other, more general, ways in with OA has affected the LAU.
+First and in a very general way, OA has allowed increasingly numbers of Latin
+American scholars to change their mode and style of participation in accessing as well as
+producing scholarship that aspires to be both ―local & global.‖ However, while we
+recognize that OA is not a magic wand that has solved all the scholarly and political
+challenges involved in making the emerging scholarly production of the LAUs relevant 
+for the local communities and for the international scientific communities, it is also
+evident that it has created possibilities that were very hard to imagine to faculty working
+in the LAU of a few decades ago.
+Second, it is important to recognize that OA has played a significantly different
+role among the faculty working in institutions of higher education in Latin America than
+it has in Anglo-American and many Western European countries. While in the deeprooted
+research intensive universities of the ―North‖ OA ―disrupted‖ traditional and large
+scholarly communities and well-developed models of scientific, production and
+communication in Latin America OA was also disruptive of the practices and styles of a
+smaller group of scholars and their networks. Historically the number of LAU scholars
+participating in the central/global discussions was very low and mostly located in the
+macro-universities that concentrated the largest number of research intensive units. OA
+was seen by many of those scholars who were already participants of the central science
+discussion as a threat to the quality achieved by their centers, but it was also quickly
+perceived as the most efficient way of strengthening the possibilities of an emerging and
+larger than ever researcher population.
+Third, while the landscape of scholarly communications in Anglo-American and
+many Western European countries is dominated by commercial publishers, in Latin
+America the dominant voices are universities and research centers. The region has a very
+extended tradition of university presses and non-for profit scholarly publications. Given
+this landscape, OA and its related technologies were rapidly embraced and had fewer
+voices opposing their adoption.
+Another distinctive characteristic of the LAU is the general social perception that
+public institutions are the main producers of scientific knowledge in the region coupled
+with very strong traditions about the ―public‖ role that the LAU needs to perform. With
+the echoes of the reform of 1918 in Cordoba still heard in the halls of many universities,23
+it is unsurprising that Open Access Latin American journals have been able to flourish in
+an environment with growing accesses to the Internet and e-science (Plaz Power, 2009).
+SciELO and RedALyC are two clear manifestations of the strong sense of ―publicness‖
+embedded in many of the LAUs. These two institutions have given prominence to OA in
+the region and this has, in turn, given credence to the evaluation practices of such OA
+initiatives. Furthermore, the technologies surrounding online publishing have shaped the
+digital landscape and increased the virtual presence of Latin American research. While it
+is impossible to determine direct causation between these OA initiatives (and associated
+technologies) on the quantity and quality of Latin American research, we must conclude
+that they have been a crucial mechanism of support for researchers, universities, and for
+national systems of innovation. We draw this conclusion because OA appears to be
+contributing to the global integration and exchange of Latin America research and
+scholarship by enabling LA literature to increase its global circulation (compared to print
+and subscription models) and citations. This, in turn, is freeing up some portion of LA
+library budgets for purchasing additional non-OA resources. Universities are thus able to
+
+23 As can be seen by the very clear language used by the Declaration of the Regional
+Conference on Higher Education in Latin America and the Caribbean: ―Higher education is a
+social public good, a universal human right, and a responsibility of States. This is the conviction
+and the basis for the strategic role that it should play in the processes of sustainable development
+of the countries of the region‖ (CRES, 2008).
+support the growth of research workforce by providing a means of launching peerreviewed
+journals with global distribution (which subscription journals would not be able
+to achieve). Finally, the development of portals such as SciELO, RedALyC, and Latindex
+raised the profile as well as the quality of scholarly journals in Latin America. Even as
+provisions need to be made for improving and developing the whole range of journals,
+rather than focusing efforts on an exclusive set of ―qualified‖ titles, we see OA as a
+critical aspect of the scholarly communication landscape in Latin America.
+References
+Alperin, J., Fischman, G., & Willinsky, J. 2008. Open Access and Scholarly Publishing in
+Latin America: Ten flavours and a few reflections. Liinc em Revista, 4.
+Albornoz, M., Matos Macedo M. Y Alfaraz C. 2010: ―Latin America‖, en L.Brito
+(director): UNESCO Science Report 2010-the current status of science around the
+world, UNESCO, p.77-101. Retrieved from:
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/sc_usr10_la_E
+N.pdf
+Arocena, R., & Sutz, J. 2001. Changing knowledge production and Latin American
+universities. Research Policy, 30(8), 1221-1234. doi: 10.1016/S0048-
+7333(00)00143-8.
+Aupetit, S. D. 2007. Assessment of scientific productivity and restructuring of university
+research systems in Latin America. Educación Superior y Sociedad, 12(1), 21-62.
+Retrieved from http://ess.iesalc.unesco.org.ve/index.php/ess/article/view/23.
+Babini, D. 2011. Acceso abierto a la producción científica de América Latina y el Caribe.
+Identificación de principales instituciones para estrategias de integración regional.
+Revista Iberoamericana de Ciencia, Tecnología y Sociedad, 6(17).Retrieved from:
+http://www.revistacts.net/files/Volumen%206%20-
+%20N%C3%BAmero%2017/babini_EDITADO_FINAL.pdf
+Babini, D. & Fraga, J. (Eds.). 2006. Edición electrónica, bibliotecas virtuales y portales
+para las ciencias sociales en América Latina y el Caribe. Buenos Aires: CLACSO.
+Available from
+http://bibliotecavirtual.clacso.org.ar/ar/libros/secret/babini/babini.html
+De Bellis, N. (2009). Bibliometrics and Citation Analysis: From the Science Citation
+Index to Cybermetrics (Lanham, MD: Scarecrow Press).
+Bernasconi, A. 2007. Is there a Latin American model of the university? Comparative
+Education Review, 75(1) 27-52.
+Björk B-C, Welling P, Laakso M, Majlender P, Hedlund T, et al. 2010 Open Access to
+the Scientific Journal Literature: Situation 2009. PLoS ONE
+5(6): e11273. doi:10.1371/journal.pone.0011273
+Budapest Open Access Initiative. 2002. Retrieved from
+http://www.soros.org/openaccess/read.shtml.
+Chinchilla-Rodríguez, Miguel S, & Moya Anegón,(2010) F. Open access and Scopus: a
+new approach to scientific visibility from the standpoint of access, unpublished
+working paper Scimago research group, Spain
+Didriksson, A. 2007. Contexto global y regional de la educación superior en América
+Latina y el Caribe. In IESALC. Tendencias de la educación superior en América 
+Latina y el Caribe, (pp. 1–43). Caracas: Instituto Internacional para la Educación
+Superior en América Latina y el Caribe- UNESCO.
+Edgar, B. D., & Willinsky, J. 2010. A Survey of the Scholarly Journals Using Open
+Journal Systems. Scholarly and Research Communication, 1(2), 1-22.
+Fischman, G. E. 2008. Las universidades públicas en el siglo XXI. Grandes expectativas,
+algunas promesas y muchas incertidumbres. Universitas Humanística, 66(2), 239–
+270.
+Fischman, G., Alperin, J., & Willinsky, J. 2010. Visibility and Quality in SpanishLanguage
+Latin American Scholarly Publishing. Information Technology &
+International Development, 6(4), 1-21. Retrieved from http://pkp.sfu.ca/node/3347.
+Gentili, P., & Levy, B. 2005. Espacio público y privatización del conocimiento: estudios
+sobre políticas universitarias en América Latina. Buenos Aires: CLACSO.
+Guédon, J. C. 2010. Acesso Aberto e divisão entre ciência predominante e ciência
+periférica. In S. M. Soares Pinto Ferreira & M. das Graças Targino (Eds.),
+Desmistificando a acessibilidade e a visibilidade de revistas científicas eletrônicas.
+São Paulo: Senac. Retrieved from
+http://www.citeulike.org/user/JSicot/article/2073899.
+Hermes-Lima, M., Santos, N. C. F., Alencastro, A. C. R., & Ferreira, S. T. 2007. Whither
+Latin America? Trends and challenges of science in Latin America. IUBMB life,
+59(4-5), 199-210. doi: 10.1080/15216540701258751.
+Hitchcock, Stephen (2011). The effect of open access and downloads ('hits') on citation
+impact: a bibliography of studies. Open Citation Project.
+http://opcit.eprints.org/oacitation-biblio.html
+Holdom, S. (2005). E-Journal Proliferation in Emerging Economies: The Case of Latin
+America. Lit Linguist Computing, 20, 351-365. doi: 10.1093/llc/fqi033.
+Lillis, T., & Curry, M. J. 2010. Academic Writing in a Global Context: The politics and
+practices of publishing in English, 224. Routledge. Retrieved from
+http://oro.open.ac.uk/17055/.
+López Segrera, F. 2007. Educación superior internacional comparada. Escenarios, temas
+y problemas. Caracas: IESALC.
+Malagón Plata, L. A. (2005). Cambios y conflictos en los discursos político-pedagógicos
+sobre la universidad archivos analíticos de políticas educativas. Education Policy
+Analysis Archives, 13(21), Retrieved July 15, 2008, from
+epaa.asu.edu/ojs/article/view/127
+Marcano, D., & Phélan, M. (2009). Evolución y desarrollo del programa de promoción
+del investigador en Venezuela. Interciencia, 34(1), 17–24. Asociación Interciencia.
+Retrieved from http://www.scielo.org.ve/scielo.php?pid=S0378-
+18442009000100005&script=sci_pdf.
+Mc Veigh M. (2004) Open Access Journals in the ISI Citation Databases: Analysis of
+Impact Factors and Citation Patterns – A Citation study from Thomson Scientific,
+Thomson Scientfic, http://science.thomsonreuters.com/m/pdfs
+/openaccesscitations2.pdf.
+Melero, R. 2010. ¿Hablamos de Open Access?. Revista española de salud pública, 44(5),
+241-3. Retrieved from http://scielo.isciii.es/pdf/resp/v84n2/editorial.pdf.
+Meneghini, R., Mugnaini, R., & Packer, A. L. 2006. International versus national
+oriented Brazilian scientific journals. A scientometric analysis based on SciELO and 
+JCR-ISI databases. Scientometrics, 69, 529-538. Retrieved from
+http://dx.doi.org/10.1007/s11192-006-0168-z.
+Ordorika, I. & Pusser, B. 2007. ―La maxima cases de estudios: The Universidad nacional
+autónoma de México as a State-Building University,‖ in Research Universities in
+Asia and Latin America. World Class Worldwide, ed. Philip Altbach and Jorge
+Balan (Baltimore: Johns Hopkins University Press 189-215.
+Ordorika, I. 2009. Universidades y globalización: tendencias hegemónicas y construcción
+de alternativas. Educación Superior y Sociedad, 12(1), 175. Retrieved from
+http://ess.iesalc.unesco.org.ve/index.php/ess/article/viewArticle/28.
+Packer, A. L., & Meneghini, R. 2007. Learning to Communicate Science in Developing
+Countries. Interciencia, 32, 643-647. Retrieved from
+http://www.scielo.org.ve/scielo.php?script=sci_arttext&pid=S0378-
+18442007000900014&lng=en&nrm=iso&ignore=.html.
+Pené, M. G. 2010, April. Nuevas estrategias para la gestión de colecciones en bibliotecas
+universitarias a partir del advenimiento de los repositorios institucionales. Paper
+presented at Congreso Internacional de Información 2010, Habana, Cuba. Retrieved
+from http://www.fuentesmemoria.fahce.unlp.edu.ar/trab_eventos/ev.702/ev.702.pdf
+Plaz Power, I. 2009. El contexto de la ciencia-e en Latinoamérica. Apologíias,
+oportunidades y desafíios. Educación Superior y Sociedad, 12(1), 191. Retrieved
+from http://ess.iesalc.unesco.org.ve/index.php/ess/article/viewArticle/29.
+RICYT. 2010. Red de Indicadores de Ciencia y Tecnología -Iberoamericana e
+Interamericana. Retrieved from http://ricyt.org/.
+Romero-Torres, M., M.A. Tejada, and A. Acosta. (2010). Proposal to Classify Latin
+American Scientific Journals using citation indicators: Case study in Colombia.
+Available at: http://arxiv.org/pdf/1101.2711.
+Suber, P. 2011. Open Access Overview (Definition, Introduction). Retrieved from
+http://www.earlham.edu/~peters/fos/overview.htm
+Terra-Figari, L. 2007. Diseminación del Conocimiento Académico en América Latina.
+Sonnia Romero Gorski, S. (comp.) Anuario de Antropologia Social y Cultural en
+Uruguay, Montevideo, Uruguay: Editorial Nordan–Comunidad, 193-207.
+Thorn, K. & Soo, M. 2006. Latin American universities and the third mission. Trends,
+challenges and policy options. Research Working Paper 4002. Washington, DC:
+World Bank.
+Villanueva, E. 2006. Accidental open access and the hazards involved: Preliminary
+experiences on Internet-based publishing in a Peruvian university. First Monday,
+11(6-5). Retrieved from
+http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1333.
+Willinsky, J. 2006. The Access Principle: The Case for Open Access to Research and
+Scholarship (Cambridge: MIT Press, 2006).
+Willinsky, J. 2005. The Unacknowledged Convergence of Open Source, Open Access,
+and Open Science. First Monday, 10(8).

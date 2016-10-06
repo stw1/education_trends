@@ -1,0 +1,611 @@
+172
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+Open Access and Scholarly Publishing in Latin America: Ten flavours
+and a few reflections
+Juan Pablo Alperin*
+Gustavo E. Fischman**
+John Willinsky***
+Abstract Throughout this article we argue that many scholars and scientific systems in Latin
+America and the Caribbean (LAC) share the ethical and epistemological motivations about the
+importance of increasing the "public presence" of academic research and lay out that many
+scholars and that many scholars and scientific systems in LAC are well positioned to take
+advantage of the increasing information and communication technology (ICT) infrastructure and
+of the growing open access (OA) movement so that the research produced within the region is
+circulated and shared broadly. The existence of Latin American examples to Willinsky's (2006)
+ten flavours of OA to journal articles are seen as an indication that OA has taken hold in the
+region.
+Keywords Open Access (OA); Latin America and the Caribbean; Information and
+Communication Technologies (ICT); knowledge dissemination; Scholarly Communication
+Resumo Argumenta-se neste artigo que muitos acadêmicos e sistemas científicos na América
+Latina e no Caribe compartilham motivações éticas e epistemológicas a respeito da importância
+de se aumentar a "presença pública" da pesquisa acadêmica e que muitos deles estão bemposicionados
+para se valer da crescente infra-estrutura de tecnologias de informação e
+comunicação (TIC)e dos movimentos de Acesso Livre (AL) para que a ciência produzida na
+região circule e se compartilhe amplamente. A existência de exemplos latino-americanos para a
+classificação dos dez modelos de Willinsky para artigos de periódicos é vista como indicação de
+que o AL já se instalou na região.
+Palavras-chave Acesso Livre (AL); América Latina e Caribe; Tecnologias de Informação e
+Comunicação (TIC); difusão do conhecimento; comunicação acadêmica
+
+* MA in Geography, Researcher and programmer for the Public Knowledge Project. E-mail: juan@alperin.ca
+** Ph.D in Education Sciences, Assoc Professor of Ed Leadership & Policy Studies Faculty, University Drive and
+Mill Avenue, 302D, Tempe, AZ, mail code: 2411, Tel. (480) 965-5225,e-mail: fischman@asu.edu
+*** Ph.D., Sociology of Education, Professor of Stanford University School of Education. 485 Lasuen Mall,
+Stanford, CA 94305-3096, Tel. (650) 723-2102, e-mail: john.willinsky@stanford.edu
+173
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+Introduction
+Most scholars and academics, will undoubtedly agree that their main mission is to produce new
+knowledge through research activities. In many cases, however, the motivations for engaging in
+a given research project relate as much from the belief that the knowledge generated will be of
+scientific interest and also about its social implications and possible contribution to the
+advancement of the public good. Good intentions aside, it is also clear that many scholars have
+not paid enough attention to ensure that their research results were available to the public.
+The motivations for ensuring a wide dissemination of research are many and varied, but we want
+to highlight two key aspects. Scientific endeavours cannot be detached from ethical and political
+considerations. We firmly believe that knowledge generated through publicly sponsored research
+should benefit the public, thus, scholars should place adequate care in ensuring that the “public”
+has access to what was produced with public support. At the same time, there is an
+epistemological motivation to place the research in a widely accessible form. That is, only
+research that has been publicly scrutinized (including but not limited to traditional processes of
+peer-review) can claim that the knowledge produced is accurate and meets the standards of the
+academic community, and therefore it legitimately adds to the global network of knowledge1
+. In
+sum, we share the position of Lucas and Willinsky (2008; p.1), that “the responsibilities of the
+researcher extend beyond the design, conduct, and supervision of research” and go into the way
+in which research is circulated and shared.
+Throughout this paper, we will argue two main points. Firstly, that many scholars and scientific
+systems in Latin America and the Caribbean share the ethical and epistemological motivations
+about the importance of increasing the “public presence” of academic research; Secondly, many
+scholars and scientific systems in Latin America and the Caribbean are well positioned to take
+advantage of the increasing information and communication technology (ICT) infrastructure and
+of the growing open access (OA) movement so that the research produced within the region is
+circulated and shared broadly. Furthermore, it is the aim of this paper to show that Latin
+American researchers have already made large progress in this process. It is our hope that by
+showing the ways in which researchers in Latin America have already started to disseminate
+their research more widely, other researchers in the region will be encouraged to do so.
+This paper is therefore divided into four main sections. The first gives a general background of
+the changes in the ICT infrastructure and use in Latin America in order to give the reader a sense
+of the physical infrastructure that can aide a greater knowledge exchange. This then leads into a
+discussion on the patterns of dissemination of research within the region. Through this
+discussion, open access is identified as one of the methods being used by journals in Latin
+America and the meaning and extent of open access is therefore discussed in the third section.
+Finally, the last section uses Willinsky’s (2006) classification of open access models to show
+how almost all versions of OA can already be found in Latin America.
+
+1 These arguments are laid out in more detail in Willinsky, 2006; Lucas & Willinsky
+174
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+ICTs' General Infrastructure in Latin America
+While Internet usage worldwide has grown at an estimated rate of 275.4% between 2000 and
+2008 worldwide, Latin American's growth is estimated at over twice this amount (603.4%)
+(Nielsen/NetRatings, Retrieved May 3rd, 2008). This growth follows another period in which
+the region was considered a “hot spot for the telecommunications business” (FernándezMaldonado,
+2001; p2.). Although the overall penetration is still low (22.1% of the population,
+Nielsen/NetRatings, Retrieved May 3rd, 2008), there are those that are hopeful that it is possible
+to "enable affordable, accessible Internet connectivity and computing capabilities for 50% of the
+world's population by the year 2015" (AMD, 2008). This type of growth opens up a world of
+opportunities for information and knowledge exchange to take place.
+Despite this growth in Internet usage, the actual levels of ICT development have been weaker
+than in other parts of the world. Since the middle of the 1990s, most countries in Latin America
+have increased the number of telephones and telephone connections, Internet access, the number
+of computers in homes and schools, and the number of cyber cafés. However, development has
+not been homogeneous across countries, regional areas, or social classes, and the lack of
+trustworthy studies is a major deficiency, complicating any analysis in this area. Moreover, as
+Hilbert and Katz (2003), authors of an influential ECLAC report on these issues, noted, “the lack
+of information about the development of an Information Society in Latin America and the
+Caribbean is a major obstacle in itself.” (p. 289). Tables 1 and 2 show the huge disparities among
+countries and regions in terms of ICT infrastructure, and also the differences in the rate and
+speed of the incorporation of personal computers, telephone lines, and Internet hosts, all deemed
+crucial components for bridging the digital divide.
+Internet
+users
+(per 100
+people**)
+PCs
+(per 100
+people**)
+Telephone
+lines
+(per 1000
+people*)
+Mobile phones
+(per 1000
+people*)
+Internet
+hosts
+(per 1000
+people*)
+HDI rank *
+Country*
+2002 2002 1990 1999 1990 1999 1995 2000
+1 Norway 30.72 52.83 503 712 46 617 20.1 193.6
+6 USA 50.10 62.44 545 682 21 312 21.1 179.1
+34 Argentina 10.93 8 93 201 0 121 0.2 8.7
+41 Costa
+Rica
+20.29 20.32 101 204 0 35 0.6 4.1
+51 Mexico 10.69 8.30 65 112 1 79 0.2 9.2
+69 Brazil 8.22 7.48 65 149 0 89 0.2 7.2
+175
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+Table 1: ICT Infrastructure in selected countries
+Sources: Human Development Report 2001 - http://hdr.undp.org/reports/global/2001/en/pdf/techindex.pdf
+International Telecommunication Union - http://www.itu.int/ITUD/ict/statistics/at_glance/Internet02.pdf
+Telephone lines
+(per 1000
+people)
+Mobile phones
+(per 1000
+people)
+Internet hosts
+(per 1000
+people)
+Region
+1990 1999 1990 1999 1995 2000
+Middle
+income
+countries
+22 69 34 0.1 1.0
+High income
+countries 473 594 13 371 11.0 96.9
+Table 2: ICT Infrastructure in Middle Income and High Income regions
+Another relevant measure in relation to technological development is provided by the Networked
+Readiness Index Ranking (NRIR). The Networked Readiness Index (NRI) is defined as a nation’s
+or community’s degree of preparation to participate in and benefit from ICT developments. The
+NRI is a composite of three components: the environment for ICT offered by a given country or
+community, the readiness of the community’s key stakeholders (individuals, businesses, and
+governments) to use ICT, and finally, the usage of ICT among these stakeholders (Dutta & Jain,
+2004, pp. 3-4).
+Table 3 shows that in the Networked Readiness Index Ranking (NRIR) from 2002 to 2005,
+Argentina dropped in the ranking from position 45 to 76; Mexico from 47 to 60; Costa Rica from
+49 to 61; and Ecuador from 75 to 95.
+176
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+Country 2002-2003 2003-2004 2004-2005
+Brazil 29 39 46
+Chile 35 32 35
+Argentina 45 50 76
+México 47 44 60
+Costa Rica 49 49 61
+Uruguay 55 54 64
+Republic Dom. 57 57 78
+Trinidad & Tobago 58 52 59
+Colombia 59 60 66
+Jamaica 60 53 49
+Panama 61 58 69
+El Salvador 63 62 70
+Venezuela 66 72 84
+Peru 67 70 90
+Guatemala 73 86 88
+Ecuador 75 89 95
+Paraguay 76 91 98
+Bolivia 78 90 99
+Nicaragua 79 94 103
+Honduras 81 98 97
+Haiti 82 100
+Table 3: Networked Readiness Index (NRI) Rankings for Latin American Countries 2002- 2005
+Source: Networked Readiness Index 2002-2003, 2003-2004, and 2004-2005.
+The previous information confirms that growing investments in the areas of ICTs and
+networking in Latin America are one of the most noticeable changes of the last decade, as well
+as the need to improve the sustainability of the ICTs programs to consolidate the gains made
+during the previous decades. Our position is that one element in that sustainability is an
+increased demonstration of the value of this technology through, for example, the development
+and delivery of high quality knowledge, and in particular the research and scholarship associated
+with post-secondary institutions and research institutes. That is, the investment at all levels in 
+177
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+these technologies will follow, to at least some degree, a sense of their contribution to the public
+good.
+Dissemination of scientific knowledge in Latin America
+The expansion of ICTs in the region has allowed many more scientists to access to information
+at affordable prices as well as to encourage their participation and collaboration in international
+networks of knowledge production. Traditionally, scientific networks in Latin America have
+been poorly developed despite the common language, cultural, and to certain extent social and
+political affinities shared by researchers (Fernández-Maldonado, 2001) and, while it is certainly
+true that knowledge flows have increased, there are some scholars who fear that the new forms
+of scientific exchange will only serve to recreate the patterns of social exclusion of the past and a
+dependence, on the part of the “scientific periphery,”2
+ to the knowledge of the centre (Everett,
+1998; Arunachalam, 2003, 2006).
+One of the many ways in which the region can ensure that it does not fall pray to what Altbach
+(2004) refers to as the “neo-colonialism of the 21st century” is to ensure that the region’s
+academic impact be felt both regionally and globally. That is, to ensure that the Latin America’s
+presence in scientific and social networks will be substantial in size, visibility, and most
+importantly, quality. For this to happen, there needs to be a scientific and political effort at
+strengthening scholarly publishing in the broadest sense. This must be done locally, not be
+replicating the patterns of the centre, but by identifying the aspects of scholarly communications
+that are being successful within the region itself. However, building the critical mass necessary
+for this to happen is no small task and the barriers to publication in the region remain numerous.
+As Terra-Figari (2008) points out, countries in the “scientific periphery” are hindered by
+disadvantages in size, incentives, financing, language, publishing and editing parameters. The
+worldwide inequalities in these categories tend to reinforce themselves through cycles of
+weakness. For example, researchers are not encouraged to publish their work in journals that
+have a limited international audience or not indexed in the “required and/or officially approved
+lists,” and therefore journals with limited international visibility will find it more difficult to
+attract the most prestigious researchers, be they regional or international, and are thus unable to
+attract the type of readership required to grow. Further exacerbating the situation are the
+difficulties for Latin American researchers caused by a lack of funding and limited abilities to
+consult the leading journals in their field, which challenges their possibilities to conduct cuttingedge
+high-quality research (Terra-Figari, 2008)
+Once again, the importance of ensuring a wide dissemination of research proves to be critical, as
+this has an impact in the capabilities of the regional research community itself. Similarly, we see
+the positive feedback effect that dissemination can have on researchers, the institutions that
+house them, and society at large, as they each benefit from quality and quantity increases in the
+
+2
+ While the terms centre and periphery have been used to denote the developed and developing world, in this paper
+we will use the definition found in Mariãiç (2002; p.1) which reads: “Most of the world's scientific activities are
+concentrated in a few countries, which from a global perspective can be defined as the centre. Other countries,
+which for historical, economic, social, cultural reasons represent the smaller share of global scientific activity may
+be characterized as the periphery.”
+178
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+locally relevant research produced. The increase in quality likewise plays a positive effect on
+the increased visibility of the work produced in the region, since quality work is more likely to
+be sought out, but increased dissemination is unlikely to materialize if the appropriate
+distribution channels are not chosen at the time of publishing.
+Many advances have been made in Latin America to provide these channels, perhaps more so
+than any other region in the world. This has been mainly achieved through the creation of
+regional indexing systems that are able to provide access to a large portion of the region’s
+scientific production. The oldest large-scale example of this is Latindex3
+, which was first
+conceived in 1994 and has been providing free access to a directory of journals from Latin
+American since 1997 (Latindex, 2008). The following years saw the creation of Scientific
+Electronic Library Online4
+ (SciELO), first in Brazil and now in thirteen countries. The more
+recently created Red de Revistas Cientificas de América Latina y el Caribe5
+ (RedALyC) has
+grown to catch the other two in size, representation, and importance. Unlike Latindex, which
+provides only metadata and links to some full-text articles, both SciELO and RedALyC host
+copies of every article in their databases and provide them to the public for free.
+Two key features distinguish both SciELO and RedALyC from large journal portals that can be
+found in the centre. The first is that these initiatives are strictly regional and were born as a
+result of a common need to increase the availability and visibility of regional content for regional
+and global use. The second is that both are operating entirely under an Open Access (OA)
+publishing model. That is, both provide free and unrestricted access to all of the journals that
+integrate them. OA is one of the key ways through which the type of broad dissemination of
+research that we called at the onset of this paper is possible. To further explore this, the
+remainder of this paper is focused on the forms, presence, and significance of OA in Latin
+America.
+Open Access
+The Open Access movement has been grabbing attention worldwide in a wide variety of settings.
+OA itself is not a new concept, but since the early 2000s it has dominated the publishing industry
+news as well as many academic debates, symposiums, meriting special issues in journals, such as
+this one. Librarians, publishers, and authors alike have began to consider the implications of this
+alternative and it would seem that OA publishing, in one of the many forms that will be outlined
+in this paper, are destined to play an important role in how research is both conducted and
+disseminated.
+The reasons and motivations that have led to this added interest and to the surge in literature
+available under an OA model are many and varied (cf. Suber, 2007 for a timeline of critical
+events related to OA). However, the apparent lack of information and confusion over the
+meaning of OA in Latin America (Villanueva, 2006; Terra-Figari, 2008) may lead some to
+believe that OA is a phenomenon concentrated in the “science central countries.” However, as
+
+3
+ Latindex – http://www.latindex.org
+4
+ SciELO – http:/www.scielo.org
+5
+ RedALyC – http://www.redalyc.org
+179
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+the following section will present, the situation about OA in Latin America indicates a more
+complex and shifting situation.
+Haider (2005) provides a snapshot of the geographic distribution of OA journals throughout the
+world. Using Ulrich’s Periodicals Directory6
+ and the Directory of Open Access Journals7
+(DOAJ), she estimates that while 82% of all journals are concentrated in USA/Canada and
+Western Europe, these same regions only have 59% of all of the OA journals. It is unsurprising
+that, in absolute numbers, these regions dominate in both the OA and non-OA realms. However,
+it may be surprising to some that this stronghold is much less true when it comes to OA journals
+and it may surprise even more to find that Brazil is the 3rd largest publisher of OA journals in the
+world, only second to the USA and the UK. Although Brazil’s case is certainly particular,
+largely influenced by the efforts and leadership the Instituto Brasileiro de Informação em Ciência
+e Tecnologia8
+ (IBICT), the region as a whole is far ahead of all others in the world in terms of
+percentage of OA journals.
+The combined efforts of researchers, public and private universities, ministries/councils of
+science and technology, libraries, and others, has resulted in 13% of all Latin American journals
+are OA (compared to the 3% in Canada/USA and 2% in Western Europe) (Haider, 2005). This
+number rises to 51% when looking at the proportion of online journals (Haider, 2005). These
+numbers should only be taken as a general guide, as they do not take into account the many other
+forms of OA that exist, such as researchers placing freely available copies of their work on their
+websites.
+In the interest of fairness, it is important to point out that it may be misleading to attempt a
+comparison between the “science central’s” OA production and that of the scientific periphery.
+While this same ethical principles for providing open access hold everywhere, and are indeed
+shared by many in the periphery, the perceptions of OA is bound to be different in those places
+that have most suffered the consequences of limited access. The primary ethical concern found
+in the centre is to provide access to two main groups on the fringes of the scientific community:
+the “public” and those researchers and institutions who cannot afford to purchase subscriptions
+(Haider, 2007). Latin American institutions often fall into this latter category.
+Thus, the motivations for OA in Latin America have been quite different than in the centre and
+have lead to a wide adoption of OA, even though OA as a movement has not been as clearly
+contemplated, formulated, or planned. While in Europe, USA, and Canada, OA has been driven
+in part by a rise in prices and a rise in the quantity of journals (the so-called “serials crisis”),
+publications in Latin America have traditionally been free, or close enough to free (Terra-Figari,
+2008). As ICTs started becoming more widespread in the region, the move to electronic form
+simply meant that the already free distribution could reach an even greater number of people.
+The lack of a strong publishing industry in Latin America has allowed online publishing
+initiatives to flourish (Holdom, 2005), while in Europe and the USA-Canada the business of
+publishing is often too lucrative to forgo (de Sagastizábal et al., 2006).
+One of the outcomes of the increased attention to OA is that a lot of helpful (some would say
+necessary) tools and mechanisms for publishing have been created and are at the disposition of
+everyone. For example, there are open source software platforms for institutional repositories
+
+6
+ Ulrich – http://www.ulrichsweb.com/
+7
+ DOAJ – http://www.doaj.org
+8
+ IBICT – http://www.ibict.br
+180
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+(e.g., MIT’s DSpace9
+) and for journal management and publishing (e.g., PKP’s OJS10), as well as
+a legal infrastructure (e.g., with Creative Commons11) that have all facilitated the transition to
+and creation of OA content throughout the world, including Latin America. Likewise, groups
+like SciELO and RedALyC are skillfully taking advantage of software developments to promote
+the journals of Latin American community.
+It is important to note that discussion regarding broad dissemination of scientific knowledge can
+be achieved in a wide variety of forms, and not limited to academic journals. To illustrate this
+point we will outline Willinsky’s (2006) ten different ‘flavours’ or models of OA. These
+“flavours” present different approaches and likely strategies that could contribute to achieve the
+type of broad dissemination that we are arguing is crucial for the success of Latin America as a
+knowledge producing region.
+Ten Flavours of Open Access in Latin America
+Willinsky himself points out that some of these flavours contravene some of the rules laid out in
+some of the more formal definitions of OA (e.g., “Budapest Open Archives Initiative”, 2002;
+“Bethesda Statement” 2003), and should perhaps be thought of as means of increasing access to
+research and scholarship. That is, all of the forms of OA publishing and archiving described
+below provide better access than traditional scholarly publishing models. These descriptions are
+based on the Willinsky (2006) and are enriched with examples from Latin America.
+1. Homepage open access: One of the first places that researchers began to make their
+work freely available on the Internet was in their personal homepages or on pages provided by
+their university. Many examples of this type of access can be found, such as the on the home
+page of Facultad de Informática de la Universidad de La Plata, Argentina. Home page open
+access differs from institutional repositories and e-Print servers in that the later provide a global
+indexing system.
+2. Open access e-print archive: Many journals now permit authors to place a copy of their
+work, prior to publishing or after, in open access e-print archives or institutional repositories. An
+e-print archive can be organized around a discipline, as is the case for the social sciences through
+the Consejo Latinoamericano de Ciencias Sociales (CLACSO) digital library or by a specific
+institution, as is the case for the Universidad Nacional de Colombia. Open source software is
+available for setting up e-print archives that can index the contents following the standards set by
+the Open Archives Initiative. For example, the institutional repository for the Universidad
+Nacional de Colombia uses MIT’s DSpace software.
+3. Author fee open access: A very prominent form of open access, found especially in the
+medical sciences, is based on charging authors fees ranging between $500 and $3,000 per
+published article. The leading corporate open access publisher, BioMed Central, uses authors
+fees with its almost 200 titles. These fees can be covered by the author through research grants
+or with department funding or, in some cases, through the purchase of institutional or national
+
+9
+ DSpace – http://www.dspace.org
+10 OJS – http://pkp.sfu.ca/ojs
+11 Creative Commons – http://www.creativecommons.org
+181
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+memberships to the journals. Currently, this model is not being widely applied in Latin
+America, although the possibility certainly exits for journals to adopt this economic model. One
+example is the Revista Latinoamericana de Psicología which insists that authors subscribe to the
+open access publication ($60 for individuals and $120 for institutions) in order to publisher their
+articles.
+4. Subsidized open access: Perhaps the most common form of open access in Latin America
+is the use of various subsidies that journals are able to receive from scholarly societies,
+university departments, government agencies, or foundations. This form of open access does not
+typically charge any fees to authors or readers and is often run on largely volunteer efforts or
+with some type of non-monetary remuneration offered by universities. Among the many
+examples of this type of journal is the Costa Rican journal, Población y Salud en Mesoamérica.
+5. Dual-mode open access: Some journals have preferred to maintain a print publication
+despite their interest in switching to being open access. Many of these journals have started
+publishing an online open-access version that is available immediately and have maintained a
+traditional subscription model to offset the costs of a print version of the publication. This type
+of access can be seen in the Revista Argentina de Microbiología who charge $50 to
+Argentinians, $80 to Latin Americans, and $100 for other countries for a print version of the
+journal and provide free access through their webpage, SciELO, and RedALyC.
+6. Delayed Open Access: One of the two modes of open access that are intended to
+encourage the purchase of subscriptions, while still providing open access, is to provide open
+access to content only after a number of months have passed since the original publication.
+Journals can sell print and online subscriptions for those readers that want access to articles
+immediately and provide free access to those that are willing to wait. The journals at the Colegio
+de Mexico all follow this model.
+7. Partial open access: Another approach to attracting subscriptions while still providing
+some open access is to provide open access to only some of the contents of the journal while
+restricting the rest to subscribed users. This type of access helps increase the visibility of a
+journal through its open access content and encourages readers to purchase subscriptions of other
+articles they have seen while browsing the journal. No Latin American examples of this type of
+access were found, but it is another possibility for those journals worried about losing the income
+generated from providing free access.
+8. Per capita open access: Programs such as the World Health Organization’s HINARI
+project has provided access to over 2,000 medical journals to those countries that have a per
+capita income of less than $1,250. With HINARI, countries with per capita income of $1,250-
+$3,500 pay $1,000 per institution per year for access to the same journals. In Latin America,
+Bolivia, Guayana, Haiti, Honduras, Nicaragua, and Paraguay all qualify for free access and
+Colombia, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Jamaica, Peru, and
+Suriname qualify for the discounted price.
+9. Open access indexing: Open access indexing has become a terrific source for finding
+publications that would otherwise only be found through commercial databases. While articles
+themselves may not be open source, there are many indexes that are providing access to article
+metadata so that researchers can at least know of article’s existence. One such example is OAHermes,
+based out of the Universidad Nacional Autonoma de Mexico (UNAM). This open
+access index provides a unified search engine for a wide variety of sources from both Latin 
+182
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+America and elsewhere, including SciELO, RedALyC, and the UNAM itself.
+10. Open access cooperative: The final form of open access presented by Willinsky (2006) is
+the cooperative, which can form among publishers, such as scholarly societies, or among
+publishers and libraries, as they work together to ensure the most efficient form of knowledge
+dissemination. This type of access is one that is perhaps best exemplified in Latin America with
+the SciELO project. SciELO works through the implementation of a common model and
+methodology in all the member countries. In each country, SciELO works with partners who
+collectively benefit from each other’s efforts.
+Type of open
+access
+Economic models Journal or portal example
+Home page University department maintains
+home pages for individual faculty
+members on which they place their
+papers and make them freely
+available.
+Pontificia Universidad Católica de
+Chile – Matemática
+http://www.mat.puc.cl/publicaciones/
+E-print
+archive
+An institution or academic subject
+area underwrites the hosting and
+maintenance of repository software,
+enabling members to self-archive
+published and unpublished
+materials.
+Universidad Nacional de Colombia
+http://www.digital.unal.edu.co/dspace
+/
+Author fee Author fees support immediate and
+complete access to open access
+journals (or, in some cases, to the
+individual articles for which fees
+were paid), with institutional and
+national memberships available to
+cover author fees.
+Revista Latinoamericana de
+Psicología
+http://www.rlpsi.org/index2.html
+Subsidized Subsidy from scholarly society,
+institution and/or
+government/foundation enables
+immediate and complete access to
+open access journal.
+Población y Salud en Mesoamérica
+http://ccp.ucr.ac.cr/revista/index.htm
+Dual-mode Subscriptions are collected for print
+edition and used to sustain both
+print edition and online open access
+edition.
+Revista Argentina de Microbiología
+http://www.aam.org.ar/revistas.php
+Delayed Subscription fees are collected for
+print edition and immediate access
+to online edition, with open access
+provided to content after a period of
+time (e.g., six to twelve months).
+Revistas del Colegio de Mexico
+http://revistas.colmex.mx/
+183
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+Partial Open access is provided to a small
+selection of articles in each issue —
+serving as a marketing tool —
+whereas access to the rest of the
+issue requires subscription.
+Per capita Open access is offered to scholars
+and students in developing
+countries as a charitable
+contribution, with expense limited
+to registering institutions in an
+access management system.
+HINARI
+http://www.who.int/hinari
+Indexing Open access to bibliographic
+information and abstracts is
+provided as a government service
+or, for publishers, a marketing tool,
+often with links to pay per view for
+the full text of articles.
+OA Hermes
+http://oa-hermes.unam.mx/oahermes.html
+Cooperative Member institutions (e.g., libraries,
+scholarly associations) contribute to
+support of open access journals and
+development of publishing
+resources.
+SciELO
+http://www.scielo.org
+Table 4. Ten flavours of open access to journal articles
+Source: Willinsky (2006)
+Conclusion
+Throughout this article we have been advancing the idea that the expansion and consolidation of
+OA, in any of its “flavours” will be of great benefit not only for Latin America’s scholars, but
+also for advancing the well being of the notion of the “public good” at the local and global
+levels. We consider that scholars, scientist and academics in general should seriously consider to
+incorporate into their work the access principle “a commitment to the value and quality of
+research carries with it the responsibility to extend the circulation of this work as far as possible,
+and ideally to all who are interested in it and all who might profit from it” (Willinsky, 2005, p.
+5).
+We are aware of the differences and inequities in the processes of production, circulation and
+legitimization of scientific knowledge, and have already recognized our own dissatisfaction with
+the notions of “central” and “periphery” with regards to academic production. No doubt, OA by
+itself cannot solve all the issues related to those inequities, and the always-critical issue of
+scientific excellence, relevance and quality. The combination of online presence and open access
+is changing the geometry to a degree, as there is more of a global knowledge exchange, a greater 
+184
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+circulation of work, than was taking place with print. For this reason, and with this goal of
+exchange and circulation in mind, it makes sense for those with an interest in the future of
+knowledge to continue to look for new ways of using these technologies to advance the quality
+and reach of this work.
+We firmly believe that any research project should be developed including conscious steps to
+make the circulation and exchange of knowledge as available as “feasible” as possible.
+Undoubtedly, the feasibility of making all the knowledge produced by a research project
+“public” will depend on the contextual and institutional limits (e.g., economic and/or
+educational), but the point to stress is that the introduction of ICTs allows for envisioning an
+extended concept of what the “public” is. Undoubtedly, the type of distribution of knowledge
+that Internet affords is beyond what was possible to imagine with print technologies. In this
+context one of the important tasks is to consider how OA can be applied to improve
+simultaneously, the scholarly and social value of research-based knowledge.
+Finally, we want to highlight that doing research today requires reflecting and engaging with
+new publishing technologies, such as OA. Researchers throughout the world should consider the
+ethical implications and scientific potential of making their research publicly available. We can
+only speculate about this but, it is our understanding and hope that a deeper commitment to
+forms such as OA demands from researchers other forms of public responsibility and
+accountability that will result in the strengthening of scientific production as well as a more
+substantive contribution to the democratization of access to knowledge.
+Artigo recebido em 04/05/2008 e aprovado em 09/06/2008.
+References
+ALTBACH, P. G. (2004). Globalisation and the university: Myths and realities in an unequal
+world. Tertiary Education and Management, 10(1), 3-25.
+AMD. (2008). AMD’s 50 by 15 initiative. Retrieved May 13th, 2008, From:
+http://www.50x15.com/en-us/about.aspx
+BABINI, D., & SMART, P. (2006). Using digital libraries to provide online access to social
+science journals in Latin America. Learned Publishing, 19, 107-113.
+De SAGASTIZÁBAL, L., RUBIO, L., & GONZÁLEZ SORO, A. (2006). Editoriales
+universitarias de América Latina y el Caribe. In IESALC. Informe Sobre la Educación Superior
+en América Latina y el Caribe 2000-2005: La Metamorfosis de la Educación Superior (217-230).
+Caracas, Venezuela: Instituto Internacional de la UNESCO para la Educación Superior en
+América Latina y el Caribe. In: http://redaluc.uaemex.mx SciELO. (2008). Scientific Electronic
+Library Online. URL: http://www.scielo.org
+185
+Liinc em Revista, v.4, n.2, setembro 2008, p. 172 - 185 - http://www.ibict.br/liinc
+FERNÁNDEZ-MALDONADO, A. M. (Ed.). (2001). Opportunities and risks of the Latin
+America cybespace. Presented at 2nd Global Congress on Community Networking, Buenos
+Aires, Argentina.
+HAIDER, J. (2005). The geographic distribution of open access journals. Poster Presentation at
+ICML 9, World Congress on Health Information and Libraries. Salvador/Bahia, Brazil,
+September 20-23. URL: http://www.soi.city.ac.uk/~ch696/icml9_poster_haider.pdf
+HAIDER, J. (2007). Of the rich and the poor and other curious minds: On open access and
+“development”. Perspectives, 59(4/5), 449-461.
+HILBERT, M., & KATZ, J. (2003). Building and information society: A Latin American and
+Caribbean perspective. Santiago de Chile: ECLAC.
+LATINDEX. (2008). Sistema Regional de Información en Línea para Revistas Científicas de
+América Latina, el Caribe, España y Portugal. URL: http://www.latindex.unam.mx
+LUCAS, R., WIllinsky, J. (In Press). Open Access to E-Research. In N. Jankowski (Ed.), eResearch:
+Transformations in Scholarly Practice. London: Routledge.
+MARIÃIÇ, S. (2002). Scholarly journals from science periphery: Towards a common
+methodology for evaluating their scientific communicability? Croatian Information and
+Documentation Society. En: http://dlist.sir.arizona.edu/87/
+NIELSEN//NetRatings. (2008). Internet World Stats: World Internet Usage Statistics. Retrieved
+May 3rd, 2008, From: http://www.internetworldstats.com/stats.htm
+PRABHA, C. (2007). Shifting from print to electronic journals in ARL university libraries.
+Serials Review, 33(1), 4-13.
+REDALYC. (2008). Red de Revistas Científicas de América Latina y el Caribe, España y
+Portugal. URL: http://www.redalyc.org
+SUBER, P. (2007). Timeline of the open access movement. Retrieved May 5th, 2008, From:
+http://www.earlham.edu/~peters/fos/timeline.htm
+TERRA FIGARI, L.I. (2008). Diseminación del conocimiento académico en América Latina.
+Montevideo. In Antropología Social Y Cultural En Uruguay 2007. Uruguay: UNESCO.
+VILLANUEVA, E. (2006). Accidental open access and the hazards involved: Preliminary
+experiences on internet-based publishing in a peruvian university. First Monday, 11(6).
+WILLINSKY, J. (2006). The access principle: The case for open access to research and
+scholarship. Cambridge, MA: MIT Press. 
